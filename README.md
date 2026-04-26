@@ -1,2 +1,0 @@
-# Random-QOL-Script
-
