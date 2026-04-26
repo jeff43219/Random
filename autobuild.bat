@@ -7,7 +7,7 @@ if not exist "bin" mkdir "bin"
 :: 2. Build video-compressor separately (multi-file + FFmpeg)
 echo ---------------------------------
 echo Compiling: video-compressor...
-g++ -std=c++17 src/compress.cpp src/main.cpp -I C:/ffmpeg/include -I src/include -L C:/ffmpeg/lib -lavcodec -lavformat -lavutil -lavdevice -lswscale -lswresample -lpthread -o bin/compressor.exe
+g++ -std=c++17 src/compress.cpp src/main_compressor.cpp -I C:/ffmpeg/include -I src/include -L C:/ffmpeg/lib -lavcodec -lavformat -lavutil -lavdevice -lswscale -lswresample -lpthread -o bin/compressor.exe
 if !errorlevel! equ 0 (
     echo [SUCCESS] Created bin\compressor.exe
 ) else (
