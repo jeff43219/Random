@@ -42,3 +42,5 @@ CompressResult compress_file(const std::string& input_path, const CompressOption
 
 // Collect all supported files from a path (file or directory)
 std::vector<std::string> collect_files(const std::string& path, bool recursive);
+// Global current output path (for signal handler cleanup)
+extern std::string g_current_output;

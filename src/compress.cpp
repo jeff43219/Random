@@ -67,7 +67,7 @@ CompressResult compress_file(const std::string& input_path, const CompressOption
     fs::path out_path = in_path.parent_path() /
         (in_path.stem().string() + "_compressed" + in_path.extension().string());
     std::string out_str = out_path.string();
-
+g_current_output = out_str;
     result.original_size = (int64_t)fs::file_size(in_path);
 
     // ── Open input ──
@@ -403,6 +403,7 @@ CompressResult compress_file(const std::string& input_path, const CompressOption
     }
 
     result.output_size = (int64_t)fs::file_size(out_path);
+    g_current_output.clear();
     result.success = true;
 
     if (opts.overwrite) {

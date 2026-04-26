@@ -29,7 +29,7 @@ static std::string human_size(int64_t bytes) {
     ss << std::fixed << std::setprecision(2) << mb << " MB";
     return ss.str();
 }
-
+std::string g_current_output;
 int main(int argc, char* argv[]) {
     if (argc < 2) { print_usage(argv[0]); return 1; }
 
@@ -107,6 +107,7 @@ int main(int argc, char* argv[]) {
               << "  Done:   " << success << "\n"
               << "  Failed: " << failed  << "\n"
               << "  Saved:  " << human_size(total_saved) << "\n";
-
+std::cout << "\nPress Enter to close...";
+std::cin.get();
     return failed > 0 ? 1 : 0;
 }
