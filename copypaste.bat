@@ -1,14 +1,14 @@
-@REM ROBOCOPY SCRIPT
 @echo off
 setlocal enabledelayedexpansion
 
 :GET_PATH
 set /p "SOURCE_PATH=Please enter the source PATH: "
 
-:: Remove quotes if the user dragged and dropped the folder
-set "SOURCE_PATH=%SOURCE_PATH:"=%"
+:: Remove quotes if the user dragged and dropped
+set "SOURCE_PATH=%SOURCE_PATHSync:"=%"
 
-if exist "%SOURCE_PATH%\" (
+:: Check if the path exists (works for both files and folders now)
+if exist "%SOURCE_PATH%" (
     echo Path verified: "%SOURCE_PATH%"
 ) else (
     echo.
@@ -23,15 +23,11 @@ set "DEST_PATH=%DEST_PATH:"=%"
 
 echo.
 echo Starting move operation...
-echo Using 14 threads on your Ryzen 7 processor.
+echo Using 14 threads.
 echo.
 
-:: /E      : Copies subdirectories, including empty ones.
-:: /MOVE   : Moves files and dirs (deletes from source after copying).
-:: /MT:14  : Uses 14 threads as requested.
-:: /Z      : Restartable mode (safe for large transfers).
-:: /W:5 /R:3 : Wait 5 seconds and retry 3 times on failed files.
-
+:: Note: If you are moving a single file, Robocopy treats the 
+:: Destination as a directory. 
 robocopy "%SOURCE_PATH%" "%DEST_PATH%" /E /MOVE /MT:14 /Z /W:5 /R:3
 
 echo.
