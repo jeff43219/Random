@@ -1,52 +1,45 @@
 @echo off
 setlocal enabledelayedexpansion
 
-:: Check if arguments were provided in the command line
-if "%~1" NEQ "" (
-    set "SOURCE_PATH=%~1"
-    set "DEST_PATH=%~2"
-    goto EXECUTE
-)
+:: 1. CHECK FOR ARGUMENTS (%1 is source, %2 is destination)
+set "SOURCE_PATH=%~1"
+set "DEST_PATH=%~2"
 
-:GET_PATH
-set "SOURCE_PATH="
-set /p "SOURCE_PATH=Please enter the source PATH: "
-:: Clean up quotes
+:: 2. IF ARGUMENTS ARE MISSING, ASK MANUALLY
+if "%SOURCE_PATH%"=="" (
+    set /p "SOURCE_PATH=Please enter the source PATH: "
+)
 set "SOURCE_PATH=%SOURCE_PATH:"=%"
 
-if exist "%SOURCE_PATH%" (
-    echo Path verified.
-) else (
-    echo.
-    echo ERROR: Path not found. Check the spelling or drag the file here. [cite: 4]
-    goto GET_PATH
+if not exist "%SOURCE_PATH%" (
+    echo ERROR: Source path not found: "%SOURCE_PATH%"
+    exit /b
 )
 
-:GET_DEST
-set "DEST_PATH="
-set /p "DEST_PATH=Please enter the destination PATH: "
-:: Clean up quotes properly without typos
+if "%DEST_PATH%"=="" (
+    set /p "DEST_PATH=Please enter the destination PATH: "
+)
 set "DEST_PATH=%DEST_PATH:"=%"
 
-:EXECUTE
 echo.
-echo Starting copy operation... [cite: 5]
+echo ----------------------------------------------------
+echo Operation: Copying with 14 Threads
 echo From: "%SOURCE_PATH%"
 echo To:   "%DEST_PATH%"
-echo.
+echo ----------------------------------------------------
 
-:: Check if source is a folder
+:: 3. EXECUTION LOGIC
 if exist "%SOURCE_PATH%\" (
-    robocopy "%SOURCE_PATH%" "%DEST_PATH%" /E /MT:14 /Z /W:5 /R:3 [cite: 6]
+    :: It's a Folder
+    robocopy "%SOURCE_PATH%" "%DEST_PATH%" /E /Z /MT:14 /R:3 /W:5 /XJ /ETA
 ) else (
-    :: Logic for a single file
+    :: It's a Single File
     for %%i in ("%SOURCE_PATH%") do (
-        robocopy "%%~dpi." "%DEST_PATH%" "%%~nxi" /MT:14 /Z /W:5 /R:3 [cite: 6]
+        set "FILE_DIR=%%~dpi"
+        set "FILE_NAME=%%~nxi"
+        robocopy "!FILE_DIR!." "%DEST_PATH%" "!FILE_NAME!" /Z /MT:14 /R:3 /W:5 /ETA
     )
 )
 
 echo.
-echo Done! 
-
-:: Only pause if no arguments were provided (interactive mode)
-if "%~1" == "" pause
+echo Operation complete.
