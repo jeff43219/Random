@@ -1,4 +1,4 @@
-#include "compress.hpp"
+#include "include/compress.hpp"
 #include <iostream>
 #include <iomanip>
 #include <sstream>
