@@ -1,6 +1,13 @@
 @echo off
 setlocal enabledelayedexpansion
 
+:: Check if arguments were provided in the command line
+if "%~1" NEQ "" (
+    set "SOURCE_PATH=%~1"
+    set "DEST_PATH=%~2"
+    goto EXECUTE
+)
+
 :GET_PATH
 set "SOURCE_PATH="
 set /p "SOURCE_PATH=Please enter the source PATH: "
@@ -11,7 +18,7 @@ if exist "%SOURCE_PATH%" (
     echo Path verified.
 ) else (
     echo.
-    echo ERROR: Path not found. Check the spelling or drag the file here.
+    echo ERROR: Path not found. Check the spelling or drag the file here. [cite: 4]
     goto GET_PATH
 )
 
@@ -21,22 +28,25 @@ set /p "DEST_PATH=Please enter the destination PATH: "
 :: Clean up quotes properly without typos
 set "DEST_PATH=%DEST_PATH:"=%"
 
+:EXECUTE
 echo.
-echo Starting copy operation...
+echo Starting copy operation... [cite: 5]
 echo From: "%SOURCE_PATH%"
 echo To:   "%DEST_PATH%"
 echo.
 
 :: Check if source is a folder
 if exist "%SOURCE_PATH%\" (
-    robocopy "%SOURCE_PATH%" "%DEST_PATH%" /E /MT:14 /Z /W:5 /R:3
+    robocopy "%SOURCE_PATH%" "%DEST_PATH%" /E /MT:14 /Z /W:5 /R:3 [cite: 6]
 ) else (
     :: Logic for a single file
     for %%i in ("%SOURCE_PATH%") do (
-        robocopy "%%~dpi." "%DEST_PATH%" "%%~nxi" /MT:14 /Z /W:5 /R:3
+        robocopy "%%~dpi." "%DEST_PATH%" "%%~nxi" /MT:14 /Z /W:5 /R:3 [cite: 6]
     )
 )
 
 echo.
-echo Done!
-pause
+echo Done! 
+
+:: Only pause if no arguments were provided (interactive mode)
+if "%~1" == "" pause
