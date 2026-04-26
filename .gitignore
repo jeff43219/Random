@@ -1,3 +1,5 @@
 .vscode/
-*.exe
 Folder_Structures/
+PS_TimeTable.ps1
+timetable.bat
+bin/
