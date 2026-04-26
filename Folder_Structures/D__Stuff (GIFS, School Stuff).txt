@@ -1,0 +1,2193 @@
+Structure of: D:\Stuff (GIFS, School Stuff)
+==============================
+├── Backups
+│   ├── AutoAppUpdates.ps1
+│   ├── AutoCleanUp.ps1
+│   ├── CheckStatus.ps1
+│   ├── DailyBriefing.ps1
+│   ├── GHubLauncher.ps1
+│   ├── MasterControl.ps1
+│   ├── PanicButton.ps1
+│   ├── PowerMode.ps1
+│   ├── PowerModebBackup.txt
+│   ├── PurgeRAM.ps1
+│   ├── Shortcuts
+│   │   ├── Also Automated
+│   │   │   ├── Cleanup.lnk
+│   │   │   ├── Daily Briefing.lnk
+│   │   │   └── Update.lnk
+│   │   ├── Master Script.lnk
+│   │   ├── Panic.lnk
+│   │   ├── Power Plan Toggle.lnk
+│   │   ├── Purge RAM.lnk
+│   │   ├── Status Check.lnk
+│   │   └── Work Mode.lnk
+│   ├── Smart_Power_Switcher.xml
+│   ├── TogglePower.ps1
+│   ├── WallpaperLauncher.ps1
+│   └── WorkMode.ps1
+├── Calibre HTML Ones
+│   ├── 7th Time Loop
+│   │   ├── 7th Loop Vol 01 - Touko Amekawa.html
+│   │   ├── 7th Loop Vol 02 - Touko Amekawa.html
+│   │   ├── 7th Loop Vol 03 - Touko Amekawa.html
+│   │   ├── 7th Loop Vol 04 - Touko Amekawa.html
+│   │   ├── 7th Loop Vol 05 - Touko Amekawa.html
+│   │   └── 7th Loop Vol 06 - Touko Amekawa.html
+│   ├── 7th Time Loop Mobile Test (Working)
+│   │   ├── 7th Loop Vol 01 - Touko Amekawa.html
+│   │   ├── 7th Loop Vol 02 - Touko Amekawa.html
+│   │   ├── 7th Loop Vol 03 - Touko Amekawa.html
+│   │   ├── 7th Loop Vol 04 - Touko Amekawa.html
+│   │   ├── 7th Loop Vol 05 - Touko Amekawa.html
+│   │   └── 7th Loop Vol 06 - Touko Amekawa.html
+│   ├── COPYHTMLZ.py
+│   ├── EXTRACTION.py
+│   ├── LINKINGCSS.py
+│   ├── MOBILECSS.py
+│   ├── Mushoku Tensei
+│   │   ├── Jobless Vol 01 - Rifujin na Magonote.html
+│   │   ├── Jobless Vol 02 - Rifujin na Magonote.html
+│   │   ├── Jobless Vol 03 - Rifujin na Magonote.html
+│   │   ├── Jobless Vol 04 - Rifujin na Magonote.html
+│   │   ├── Jobless Vol 05 - Rifujin na Magonote.html
+│   │   ├── Jobless Vol 06 - Rifujin na Magonote.html
+│   │   ├── Jobless Vol 07 - Rifujin na Magonote.html
+│   │   ├── Jobless Vol 08 - Rifujin na Magonote.html
+│   │   ├── Jobless Vol 09 - Rifujin na Magonote.html
+│   │   ├── Jobless Vol 10 - Rifujin na Magonote.html
+│   │   ├── Jobless Vol 11 - Rifujin na Magonote.html
+│   │   ├── Jobless Vol 12 - Rifujin na Magonote.html
+│   │   ├── Jobless Vol 13 - Rifujin na Magonote.html
+│   │   ├── Jobless Vol 14 - Rifujin na Magonote.html
+│   │   ├── Jobless Vol 15 - Rifujin na Magonote.html
+│   │   ├── Jobless Vol 16 - Rifujin na Magonote.html
+│   │   ├── Jobless Vol 17 - Rifujin na Magonote.html
+│   │   ├── Jobless Vol 18 - Rifujin na Magonote.html
+│   │   ├── Jobless Vol 19 - Rifujin na Magonote.html
+│   │   ├── Jobless Vol 20 - Rifujin na Magonote.html
+│   │   ├── Jobless Vol 21 - Rifujin na Magonote.html
+│   │   ├── Jobless Vol 22 - Rifujin na Magonote.html
+│   │   ├── Jobless Vol 23 - Rifujin na Magonote.html
+│   │   ├── Jobless Vol 24 - Rifujin na Magonote.html
+│   │   ├── Jobless Vol 25 - Rifujin na Magonote.html
+│   │   └── Jobless Vol 26 - Rifujin na Magonote.html
+│   ├── RUNALLSCRIPT.py
+│   └── style.css
+├── Claude Stuff
+│   ├── E2FQuiz.jsx
+│   ├── S1S2Quiz.jsx
+│   ├── Y9_MySkills_Unit1_Notes - Copy.pdf
+│   ├── Y9_MySkills_Unit1_Notes.md
+│   ├── bilalprompt.txt
+│   ├── masjid-e-bilaldesignplan.txt
+│   ├── masjid-e-bilalplan.txt
+│   └── otherbilalprompt.txt
+├── Claude_Studying_Prompt.txt
+├── Clips
+│   ├── Div
+│   │   └── smash.png
+│   ├── Kiprot
+│   │   ├── GIFS
+│   │   │   ├── kiprotdog.gif
+│   │   │   ├── kiprotgay.gif
+│   │   │   └── kiprotwarm.gif
+│   │   ├── kiprotdog.png
+│   │   ├── kiprotgay.png
+│   │   └── kiprotwarm.png
+│   ├── Ritsu
+│   │   ├── EatNoodlesDry.png
+│   │   ├── stinky.gif
+│   │   └── stinky.png
+│   ├── Saintless
+│   │   ├── baby.gif
+│   │   ├── baby.png
+│   │   ├── come.gif
+│   │   └── come.png
+│   └── Tsuki
+│       ├── Gifs
+│       │   └── tsukifaily.gif
+│       └── tsukifaily - Copy.jpg
+├── Crome backup
+│   └── Preferences
+├── LocalSend Stuff
+│   ├── 20260422_201630.heic
+│   ├── CS Stuff
+│   │   └── Y9 Data Rep + Storage Type
+│   │       ├── CoverLesson.jpg
+│   │       ├── DataStorageRecap_P1.jpg
+│   │       ├── DataStorageRecap_P2.jpg
+│   │       ├── HowDoCompShowImages_P1.jpg
+│   │       ├── HowDoCompShowImages_P2.jpg
+│   │       ├── HowDoCompStoreChar.jpg
+│   │       ├── SecondaryStorage_P1.jpg
+│   │       ├── SecondaryStorage_P2+P3.heic
+│   │       ├── UnderstandHowDigAudioWorks_P1.jpg
+│   │       ├── UnderstandHowDigAudioWorks_P2.jpg
+│   │       └── shrunk_files
+│   │           ├── CoverLesson_compressed.jpg
+│   │           ├── DataStorageRecap_P1_compressed.jpg
+│   │           ├── DataStorageRecap_P2_compressed.jpg
+│   │           ├── HowDoCompShowImages_P1_compressed.jpg
+│   │           ├── HowDoCompShowImages_P2_compressed.jpg
+│   │           ├── HowDoCompStoreChar_compressed.jpg
+│   │           ├── SecondaryStorage_P1_compressed.jpg
+│   │           ├── UnderstandHowDigAudioWorks_P1_compressed.jpg
+│   │           └── UnderstandHowDigAudioWorks_P2_compressed.jpg
+│   └── Physics Revision
+│       ├── Energy_Knowledge_Organiser.jpg
+│       ├── P1_CalcPowerUsingEnergyTransferedByForce.jpg
+│       ├── P1_CalcWorkDone.jpg
+│       ├── P1_RelationshipBetwenEnergyAndPower.jpg
+│       ├── P1_WhatIsEnergyStore.jpg
+│       ├── P2_CalcPowerUsingEnergyTransferedByForce.jpg
+│       ├── P2_CalcWorkDone.jpg
+│       ├── P2_RelationshipBetweenEnergyAndPower.jpg
+│       ├── P2_WhatIsEnergyStore.jpg
+│       ├── P3_WhatIsEnergyStore.jpg
+│       ├── WhatAreEnergyResources.jpg
+│       ├── other
+│       └── webp
+│           └── Energy_Knowledge_Organiser.webp
+├── MC Backup
+│   ├── FO 1.21.11 (Extra too)
+│   │   ├── instance.cfg
+│   │   ├── minecraft
+│   │   │   ├── TrashSlotSaveState.json
+│   │   │   ├── XaeroWaypoints_BACKUP240807
+│   │   │   │   ├── New World
+│   │   │   │   │   └── config.txt
+│   │   │   │   └── backup
+│   │   │   ├── cache
+│   │   │   │   └── c2me-dfc
+│   │   │   │       ├── DfcCompiled_0.class
+│   │   │   │       ├── DfcCompiled_1.class
+│   │   │   │       ├── DfcCompiled_10.class
+│   │   │   │       ├── DfcCompiled_11.class
+│   │   │   │       ├── DfcCompiled_12.class
+│   │   │   │       ├── DfcCompiled_13.class
+│   │   │   │       ├── DfcCompiled_14.class
+│   │   │   │       ├── DfcCompiled_15.class
+│   │   │   │       ├── DfcCompiled_16.class
+│   │   │   │       ├── DfcCompiled_17.class
+│   │   │   │       ├── DfcCompiled_18.class
+│   │   │   │       ├── DfcCompiled_19.class
+│   │   │   │       ├── DfcCompiled_2.class
+│   │   │   │       ├── DfcCompiled_20.class
+│   │   │   │       ├── DfcCompiled_21.class
+│   │   │   │       ├── DfcCompiled_22.class
+│   │   │   │       ├── DfcCompiled_23.class
+│   │   │   │       ├── DfcCompiled_24.class
+│   │   │   │       ├── DfcCompiled_25.class
+│   │   │   │       ├── DfcCompiled_26.class
+│   │   │   │       ├── DfcCompiled_27.class
+│   │   │   │       ├── DfcCompiled_28.class
+│   │   │   │       ├── DfcCompiled_3.class
+│   │   │   │       ├── DfcCompiled_4.class
+│   │   │   │       ├── DfcCompiled_5.class
+│   │   │   │       ├── DfcCompiled_6.class
+│   │   │   │       ├── DfcCompiled_7.class
+│   │   │   │       ├── DfcCompiled_8.class
+│   │   │   │       └── DfcCompiled_9.class
+│   │   │   ├── config
+│   │   │   │   ├── DistantHorizons.toml
+│   │   │   │   ├── MouseTweaks.cfg
+│   │   │   │   ├── NoChatReports
+│   │   │   │   │   ├── NCR-Client.json
+│   │   │   │   │   ├── NCR-Common.json
+│   │   │   │   │   ├── NCR-ServerPreferences.json
+│   │   │   │   │   └── README.md
+│   │   │   │   ├── PaginatedAdvancements.json5
+│   │   │   │   ├── almanac-nbtFix.json5
+│   │   │   │   ├── animatica.properties
+│   │   │   │   ├── appleskin.json5
+│   │   │   │   ├── badoptimizations.txt
+│   │   │   │   ├── bagofholding-client.toml
+│   │   │   │   ├── bagofholding-server.toml
+│   │   │   │   ├── betterf3.json
+│   │   │   │   ├── bettergrass.json
+│   │   │   │   ├── c2me.toml
+│   │   │   │   ├── capes.json5
+│   │   │   │   ├── carryon-client.json
+│   │   │   │   ├── carryon-common.json
+│   │   │   │   ├── citresewn.json
+│   │   │   │   ├── continuity.json
+│   │   │   │   ├── controlify.json
+│   │   │   │   ├── crash_assistant
+│   │   │   │   │   ├── config.toml
+│   │   │   │   │   └── crash_assistant_localization_overrides
+│   │   │   │   │       ├── be_by.json
+│   │   │   │   │       ├── en_us.json
+│   │   │   │   │       ├── es_es.json
+│   │   │   │   │       ├── es_ve.json
+│   │   │   │   │       ├── et_ee.json
+│   │   │   │   │       ├── fr_fr.json
+│   │   │   │   │       ├── he_il.json
+│   │   │   │   │       ├── it_it.json
+│   │   │   │   │       ├── ms_my.json
+│   │   │   │   │       ├── pl_pl.json
+│   │   │   │   │       ├── ro_ro.json
+│   │   │   │   │       ├── ru_ru.json
+│   │   │   │   │       ├── vi_vn.json
+│   │   │   │   │       ├── zh_cn.json
+│   │   │   │   │       ├── zh_tw.json
+│   │   │   │   │       └── zlm_arab.json
+│   │   │   │   ├── cubes-without-borders.json
+│   │   │   │   ├── cutthrough-client.toml
+│   │   │   │   ├── debugify.json
+│   │   │   │   ├── dynamic_fps.json
+│   │   │   │   ├── e4mc
+│   │   │   │   │   └── e4mc.toml
+│   │   │   │   ├── easyanvils-client.toml
+│   │   │   │   ├── easyanvils-server.toml
+│   │   │   │   ├── easymagic-client.toml
+│   │   │   │   ├── easymagic-server.toml
+│   │   │   │   ├── enchantmentinsights-client.toml
+│   │   │   │   ├── enchdesc.json
+│   │   │   │   ├── entity_model_features.json
+│   │   │   │   ├── entity_texture_features.json
+│   │   │   │   ├── entityculling.json
+│   │   │   │   ├── etf_warnings.json
+│   │   │   │   ├── euphoria_patcher
+│   │   │   │   │   ├── data.json
+│   │   │   │   │   └── settings.toml
+│   │   │   │   ├── fabric
+│   │   │   │   │   └── indigo-renderer.properties
+│   │   │   │   ├── fabric_loader_dependencies.json
+│   │   │   │   ├── fabrishot.properties
+│   │   │   │   ├── fallingtree.json
+│   │   │   │   ├── farmersdelight-client.json
+│   │   │   │   ├── farmersdelight-common.json
+│   │   │   │   ├── fast-chest.properties
+│   │   │   │   ├── fastquit.toml
+│   │   │   │   ├── ferritecore.mixin.properties
+│   │   │   │   ├── forgeconfigapiport.toml
+│   │   │   │   ├── fpsreducer.json
+│   │   │   │   ├── ftblibrary-client.json5
+│   │   │   │   ├── ftbultimine-client.json5
+│   │   │   │   ├── fzzy_config
+│   │   │   │   │   └── keybinds.toml
+│   │   │   │   ├── gammautils.json
+│   │   │   │   ├── hangglider-client.toml
+│   │   │   │   ├── hangglider-server.toml
+│   │   │   │   ├── healthbars-client.toml
+│   │   │   │   ├── immediatelyfast.json
+│   │   │   │   ├── immersiveui.yaml
+│   │   │   │   ├── inventorymanagement.toml
+│   │   │   │   ├── iris-excluded.json
+│   │   │   │   ├── iris.properties
+│   │   │   │   ├── isxander-main-menu-credits.json
+│   │   │   │   ├── iteminteractions-client.toml
+│   │   │   │   ├── iteminteractions-server.toml
+│   │   │   │   ├── jade
+│   │   │   │   │   ├── hide-blocks.json
+│   │   │   │   │   ├── hide-entities.json
+│   │   │   │   │   ├── hide-mob-effects.json
+│   │   │   │   │   ├── jade.json
+│   │   │   │   │   ├── profiles
+│   │   │   │   │   │   ├── 1
+│   │   │   │   │   │   │   └── jade.json
+│   │   │   │   │   │   ├── 2
+│   │   │   │   │   │   │   └── jade.json
+│   │   │   │   │   │   └── 3
+│   │   │   │   │   │       └── jade.json
+│   │   │   │   │   ├── server-plugin-overrides.json
+│   │   │   │   │   └── sort-order.json
+│   │   │   │   ├── jei
+│   │   │   │   │   ├── blacklist.json
+│   │   │   │   │   ├── ingredient-list-mod-sort-order.ini
+│   │   │   │   │   ├── ingredient-list-type-sort-order.ini
+│   │   │   │   │   ├── jei-client.ini
+│   │   │   │   │   ├── jei-colors.ini
+│   │   │   │   │   ├── jei-debug.ini
+│   │   │   │   │   ├── jei-mod-id-format.ini
+│   │   │   │   │   ├── recipe-category-sort-order.ini
+│   │   │   │   │   └── world
+│   │   │   │   │       └── local
+│   │   │   │   │           └── New_World
+│   │   │   │   ├── lambdynlights.toml
+│   │   │   │   ├── languagereload.json
+│   │   │   │   ├── letmedespawn.json
+│   │   │   │   ├── libgui.json5
+│   │   │   │   ├── lithium.properties
+│   │   │   │   ├── midnightlib.json
+│   │   │   │   ├── modernfix-mixins.properties
+│   │   │   │   ├── modmenu.json
+│   │   │   │   ├── modpack_defaults
+│   │   │   │   │   ├── config
+│   │   │   │   │   │   ├── NoChatReports
+│   │   │   │   │   │   │   ├── NCR-Client.json
+│   │   │   │   │   │   │   └── NCR-Common.json
+│   │   │   │   │   │   ├── PaginatedAdvancements.json5
+│   │   │   │   │   │   ├── bettergrass.json
+│   │   │   │   │   │   ├── capes.json5
+│   │   │   │   │   │   ├── citresewn.json
+│   │   │   │   │   │   ├── crash_assistant
+│   │   │   │   │   │   │   ├── config.toml
+│   │   │   │   │   │   │   └── crash_assistant_localization_overrides
+│   │   │   │   │   │   │       ├── be_by.json
+│   │   │   │   │   │   │       ├── en_us.json
+│   │   │   │   │   │   │       ├── es_es.json
+│   │   │   │   │   │   │       ├── es_ve.json
+│   │   │   │   │   │   │       ├── et_ee.json
+│   │   │   │   │   │   │       ├── fr_fr.json
+│   │   │   │   │   │   │       ├── he_il.json
+│   │   │   │   │   │   │       ├── it_it.json
+│   │   │   │   │   │   │       ├── ms_my.json
+│   │   │   │   │   │   │       ├── pl_pl.json
+│   │   │   │   │   │   │       ├── ro_ro.json
+│   │   │   │   │   │   │       ├── ru_ru.json
+│   │   │   │   │   │   │       ├── vi_vn.json
+│   │   │   │   │   │   │       ├── zh_cn.json
+│   │   │   │   │   │   │       ├── zh_tw.json
+│   │   │   │   │   │   │       └── zlm_arab.json
+│   │   │   │   │   │   ├── debugify.json
+│   │   │   │   │   │   ├── dynamic_fps.json
+│   │   │   │   │   │   ├── entity_texture_features.json
+│   │   │   │   │   │   ├── fabric_loader_dependencies.json
+│   │   │   │   │   │   ├── fabrishot.properties
+│   │   │   │   │   │   ├── fastquit.toml
+│   │   │   │   │   │   ├── iris.properties
+│   │   │   │   │   │   ├── isxander-main-menu-credits.json
+│   │   │   │   │   │   ├── lambdynlights.toml
+│   │   │   │   │   │   ├── midnightlib.json
+│   │   │   │   │   │   ├── modernfix-mixins.properties
+│   │   │   │   │   │   ├── modmenu.json
+│   │   │   │   │   │   ├── moreculling.toml
+│   │   │   │   │   │   ├── puzzle.json
+│   │   │   │   │   │   ├── rrls.toml
+│   │   │   │   │   │   ├── sodium-extra-options.json
+│   │   │   │   │   │   ├── sodium-options.json
+│   │   │   │   │   │   └── sodium-shadowy-path-blocks-options.json
+│   │   │   │   │   ├── debug-profile.json
+│   │   │   │   │   └── options.txt
+│   │   │   │   ├── moreculling.toml
+│   │   │   │   ├── ohmega-client.toml
+│   │   │   │   ├── ohmega-server.toml
+│   │   │   │   ├── overflowingbars-client.toml
+│   │   │   │   ├── particle_core_config.toml
+│   │   │   │   ├── particle_core_disabled_optimizations_v2.json
+│   │   │   │   ├── pickupnotifier-client.toml
+│   │   │   │   ├── pickupnotifier-server.toml
+│   │   │   │   ├── puzzle.json
+│   │   │   │   ├── rrls.toml
+│   │   │   │   ├── skyboxify.json
+│   │   │   │   ├── sodium-extra-options.json
+│   │   │   │   ├── sodium-extra.properties
+│   │   │   │   ├── sodium-fingerprint.json
+│   │   │   │   ├── sodium-mixins.properties
+│   │   │   │   ├── sodium-options.json
+│   │   │   │   ├── sodium-shadowy-path-blocks-options.json
+│   │   │   │   ├── spark
+│   │   │   │   │   ├── config.json
+│   │   │   │   │   ├── tmp
+│   │   │   │   │   │   └── about.txt
+│   │   │   │   │   └── tmp-client
+│   │   │   │   │       └── about.txt
+│   │   │   │   ├── threadtweak.json
+│   │   │   │   ├── trade_cycling
+│   │   │   │   │   └── trade_cycling.properties
+│   │   │   │   ├── transition.json
+│   │   │   │   ├── trashslot-common.toml
+│   │   │   │   ├── trender.json
+│   │   │   │   ├── veinminer
+│   │   │   │   │   ├── blocks.json
+│   │   │   │   │   ├── groups.json
+│   │   │   │   │   ├── settings.json
+│   │   │   │   │   └── update
+│   │   │   │   │       ├── veinminer-client-2.6.0.jar
+│   │   │   │   │       └── veinminer-fabric-2.6.0.jar
+│   │   │   │   ├── visualworkbench-client.toml
+│   │   │   │   ├── visualworkbench-server.toml
+│   │   │   │   ├── waystones-common.toml
+│   │   │   │   ├── xaero
+│   │   │   │   │   ├── lib
+│   │   │   │   │   │   ├── client.cfg
+│   │   │   │   │   │   ├── common.cfg
+│   │   │   │   │   │   ├── profiles
+│   │   │   │   │   │   │   └── default.cfg
+│   │   │   │   │   │   └── server_profiles
+│   │   │   │   │   │       └── default.cfg
+│   │   │   │   │   ├── minimap
+│   │   │   │   │   │   ├── client.cfg
+│   │   │   │   │   │   ├── common.cfg
+│   │   │   │   │   │   ├── default_radar_categories_client.json
+│   │   │   │   │   │   ├── default_radar_categories_server.json
+│   │   │   │   │   │   ├── profiles
+│   │   │   │   │   │   │   ├── default.cfg
+│   │   │   │   │   │   │   └── info_display_config
+│   │   │   │   │   │   │       └── default.cfg.txt
+│   │   │   │   │   │   └── server_profiles
+│   │   │   │   │   │       └── default.cfg
+│   │   │   │   │   └── world-map
+│   │   │   │   │       ├── client.cfg
+│   │   │   │   │       ├── common.cfg
+│   │   │   │   │       ├── profiles
+│   │   │   │   │       │   └── default.cfg
+│   │   │   │   │       └── server_profiles
+│   │   │   │   │           └── default.cfg
+│   │   │   │   ├── xaerohud.txt
+│   │   │   │   ├── xaeropatreon.txt
+│   │   │   │   ├── yacl.json5
+│   │   │   │   └── zoomify.json
+│   │   │   ├── coremods
+│   │   │   ├── crash-reports
+│   │   │   │   └── crash-2026-04-17_17.21.10-client.txt
+│   │   │   ├── data
+│   │   │   │   └── fabric_default_resource_packs.json
+│   │   │   ├── debug-profile.json
+│   │   │   ├── defaultconfigs
+│   │   │   ├── downloads
+│   │   │   │   └── log.json
+│   │   │   ├── icon.png
+│   │   │   ├── local
+│   │   │   │   └── crash_assistant
+│   │   │   │       ├── 23416_1776443869212.info
+│   │   │   │       ├── 23416_1776443869212_app.jar
+│   │   │   │       ├── 23416_1776443869212_args.info
+│   │   │   │       ├── 23416_1776443869212_gpu-detect-jni.dll
+│   │   │   │       ├── 23416_1776443869212_mod.jar
+│   │   │   │       ├── CONFIG_LOCK.tmp
+│   │   │   │       ├── gpu-detect-jni-README.MD
+│   │   │   │       ├── local_config.json
+│   │   │   │       ├── mod_data_cache_v4
+│   │   │   │       │   ├── Almanac-1.21.11-x-fabric-1.6.2.jar.mod_data.json
+│   │   │   │       │   ├── BadOptimizations-2.4.1-1.21.11.jar.mod_data.json
+│   │   │   │       │   ├── BagOfHolding-v21.11.0-mc1.21.11-Fabric.jar.mod_data.json
+│   │   │   │       │   ├── BetterF3-17.0.0-Fabric-1.21.11.jar.mod_data.json
+│   │   │   │       │   ├── BetterGrassify-1.8.3+fabric.1.21.11.jar.mod_data.json
+│   │   │   │       │   ├── Clumps-fabric-1.21.11-29.0.0.1.jar.mod_data.json
+│   │   │   │       │   ├── ConfigManager-fabric-1.21.x-1.1.1.jar.mod_data.json
+│   │   │   │       │   ├── Controlling-fabric-1.21.11-29.0.1.jar.mod_data.json
+│   │   │   │       │   ├── CrashAssistant-fabric-1.21.5-1.21.11-1.11.6.jar.mod_data.json
+│   │   │   │       │   ├── CutThrough-v21.11.0-mc1.21.11-Fabric.jar.mod_data.json
+│   │   │   │       │   ├── DistantHorizons-2.4.5-b-1.21.11-fabric-neoforge.jar.mod_data.json
+│   │   │   │       │   ├── EasyAnvils-v21.11.0-mc1.21.11-Fabric.jar.mod_data.json
+│   │   │   │       │   ├── EasyMagic-v21.11.0-mc1.21.11-Fabric.jar.mod_data.json
+│   │   │   │       │   ├── EasyShulkerBoxes-v21.11.0-mc1.21.11-Fabric.jar.mod_data.json
+│   │   │   │       │   ├── EnchantmentInsights-v21.11.1-mc1.21.11-Fabric.jar.mod_data.json
+│   │   │   │       │   ├── EternalNether-v21.11.0-mc1.21.11-Fabric.jar.mod_data.json
+│   │   │   │       │   ├── EuphoriaPatcher-1.8.6-r5.7.1-fabric.jar.mod_data.json
+│   │   │   │       │   ├── Explorify v1.6.4 f15-88.mod.jar.mod_data.json
+│   │   │   │       │   ├── FallingTree-1.21.11-1.21.11.3.jar.mod_data.json
+│   │   │   │       │   ├── FarmersDelight-1.21.11-3.4.9+refabricated.jar.mod_data.json
+│   │   │   │       │   ├── ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar.mod_data.json
+│   │   │   │       │   ├── FpsReducer2-fabric-1.21.11-2.15.jar.mod_data.json
+│   │   │   │       │   ├── Gamma-Utils-2.5.10+mc1.21.11.jar.mod_data.json
+│   │   │   │       │   ├── HangGlider-v21.11.0-mc1.21.11-Fabric.jar.mod_data.json
+│   │   │   │       │   ├── HealthBars-v21.11.0-mc1.21.11-Fabric.jar.mod_data.json
+│   │   │   │       │   ├── ImmediatelyFast-Fabric-1.14.2+1.21.11.jar.mod_data.json
+│   │   │   │       │   ├── ImmersiveUI-FABRIC-0.3.6+1.21.11.jar.mod_data.json
+│   │   │   │       │   ├── Incendium_26.1_v5.4.12.jar.mod_data.json
+│   │   │   │       │   ├── IronChests-2.0.5.jar.mod_data.json
+│   │   │   │       │   ├── Jade-1.21.11-Fabric-21.1.6.jar.mod_data.json
+│   │   │   │       │   ├── LetMeDespawn-1.21.11-x-fabric-1.6.2.jar.mod_data.json
+│   │   │   │       │   ├── MoogsEndStructures-1.21-2.0.1.jar.mod_data.json
+│   │   │   │       │   ├── MouseTweaks-fabric-mc1.21.11-2.30.jar.mod_data.json
+│   │   │   │       │   ├── NeoEnchant-5.14.0.jar.mod_data.json
+│   │   │   │       │   ├── NoChatReports-FABRIC-1.21.11-v2.18.0.jar.mod_data.json
+│   │   │   │       │   ├── Nullscape_1.21.x_v1.2.17.jar.mod_data.json
+│   │   │   │       │   ├── OverflowingBars-v21.11.0-mc1.21.11-Fabric.jar.mod_data.json
+│   │   │   │       │   ├── PickUpNotifier-v21.11.0-mc1.21.11-Fabric.jar.mod_data.json
+│   │   │   │       │   ├── PuzzlesLib-v21.11.12-mc1.21.11-Fabric.jar.mod_data.json
+│   │   │   │       │   ├── Searchables-fabric-1.21.11-1.0.4.jar.mod_data.json
+│   │   │   │       │   ├── ShatterLib-FABRIC-0.6.0.8+1.21.11.jar.mod_data.json
+│   │   │   │       │   ├── Structory_26.1_v1.3.16.jar.mod_data.json
+│   │   │   │       │   ├── Structory_Towers_26.1_v1.0.16.jar.mod_data.json
+│   │   │   │       │   ├── VisualWorkbench-v21.11.1-mc1.21.11-Fabric.jar.mod_data.json
+│   │   │   │       │   ├── animatica-0.6.1+1.21.5.jar.mod_data.json
+│   │   │   │       │   ├── appleskin-fabric-mc1.21.11-3.0.8.jar.mod_data.json
+│   │   │   │       │   ├── architectury-19.0.1-fabric.jar.mod_data.json
+│   │   │   │       │   ├── balm-fabric-1.21.11-21.11.9.jar.mod_data.json
+│   │   │   │       │   ├── bettermounthud-1.2.6.jar.mod_data.json
+│   │   │   │       │   ├── c2me-fabric-mc1.21.11-0.3.7+alpha.0.9.jar.mod_data.json
+│   │   │   │       │   ├── capes-1.5.10+1.21.11-fabric.jar.mod_data.json
+│   │   │   │       │   ├── carryon-fabric-1.21.11-2.9.0.jar.mod_data.json
+│   │   │   │       │   ├── cloth-config-21.11.153-fabric.jar.mod_data.json
+│   │   │   │       │   ├── continuity-3.0.1-beta.1+1.21.11.jar.mod_data.json
+│   │   │   │       │   ├── controlify-2.5.2+1.21.11-fabric.jar.mod_data.json
+│   │   │   │       │   ├── cwb-fabric-3.0.0-build.14+mc1.21.11.jar.mod_data.json
+│   │   │   │       │   ├── debugify-1.21.11+1.0.jar.mod_data.json
+│   │   │   │       │   ├── dnt-stronghold-overhaul-lite-edition-v1.3.jar.mod_data.json
+│   │   │   │       │   ├── dungeons-and-taverns-ancient-city-overhaul-3.2.3.jar.mod_data.json
+│   │   │   │       │   ├── dungeons-and-taverns-desert-temple-overhaul-v2.1.jar.mod_data.json
+│   │   │   │       │   ├── dungeons-and-taverns-jungle-temple-overhaul-v2.1.jar.mod_data.json
+│   │   │   │       │   ├── dungeons-and-taverns-nether-fortress-overhaul-v3.1.jar.mod_data.json
+│   │   │   │       │   ├── dungeons-and-taverns-v5.1.0.jar.mod_data.json
+│   │   │   │       │   ├── dynamic-fps-3.11.4+minecraft-1.21.11-fabric.jar.mod_data.json
+│   │   │   │       │   ├── e4mc-fabric-6.0.6.jar.mod_data.json
+│   │   │   │       │   ├── enchdesc-fabric-1.21.11-21.11.1.jar.mod_data.json
+│   │   │   │       │   ├── entity_model_features_1.21.11-fabric-3.0.17.jar.mod_data.json
+│   │   │   │       │   ├── entity_texture_features_1.21.11-fabric-7.0.13.jar.mod_data.json
+│   │   │   │       │   ├── entityculling-fabric-1.10.0-mc1.21.11.jar.mod_data.json
+│   │   │   │       │   ├── fabric-api-0.141.3+1.21.11.jar.mod_data.json
+│   │   │   │       │   ├── fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar.mod_data.json
+│   │   │   │       │   ├── fabrishot-1.16.4.jar.mod_data.json
+│   │   │   │       │   ├── fast-chest-1.6+1.21.9.jar.mod_data.json
+│   │   │   │       │   ├── fast-ip-ping-v1.0.11-mc1.21.11-fabric.jar.mod_data.json
+│   │   │   │       │   ├── fastquit-3.1.3+mc1.21.11.jar.mod_data.json
+│   │   │   │       │   ├── ferritecore-8.2.0-fabric.jar.mod_data.json
+│   │   │   │       │   ├── fzzy_config-0.7.6+1.21.11.jar.mod_data.json
+│   │   │   │       │   ├── gpumemleakfix-fabric-1.21.11-1.9.jar.mod_data.json
+│   │   │   │       │   ├── inventorymanagement-1.6.1+1.21.11.jar.mod_data.json
+│   │   │   │       │   ├── iris-fabric-1.10.7+mc1.21.11.jar.mod_data.json
+│   │   │   │       │   ├── jei-1.21.11-fabric-27.4.0.22.jar.mod_data.json
+│   │   │   │       │   ├── krypton-0.2.10.jar.mod_data.json
+│   │   │   │       │   ├── lambdynamiclights-4.9.1+1.21.11.jar.mod_data.json
+│   │   │   │       │   ├── language-reload-1.7.6+1.21.11.jar.mod_data.json
+│   │   │   │       │   ├── lithium-fabric-0.21.4+mc1.21.11.jar.mod_data.json
+│   │   │   │       │   ├── main-menu-credits-1.2.0.jar.mod_data.json
+│   │   │   │       │   ├── mixintrace-1.1.1+1.17.jar.mod_data.json
+│   │   │   │       │   ├── modernfix-5.26.2-build.1.jar.mod_data.json
+│   │   │   │       │   ├── modmenu-17.0.0.jar.mod_data.json
+│   │   │   │       │   ├── moogs_structure_lib-1.1.0-1.21.11-fabric.jar.mod_data.json
+│   │   │   │       │   ├── morechathistory-1.3.1.jar.mod_data.json
+│   │   │   │       │   ├── moreculling-fabric-1.21.11-1.6.2.jar.mod_data.json
+│   │   │   │       │   ├── ohmega-1.5.16-fabric+1.21.11.jar.mod_data.json
+│   │   │   │       │   ├── optigui-2.3.0-beta.9+1.21.9.jar.mod_data.json
+│   │   │   │       │   ├── paginatedadvancements-2.8.0+1.21.11.jar.mod_data.json
+│   │   │   │       │   ├── particle_core-0.3.2+1.21.11.jar.mod_data.json
+│   │   │   │       │   ├── polytone-1.21.11-5.4.20-fabric.jar.mod_data.json
+│   │   │   │       │   ├── prickle-fabric-1.21.11-21.11.1.jar.mod_data.json
+│   │   │   │       │   ├── puzzle-fabric-2.3.0+1.21.11.jar.mod_data.json
+│   │   │   │       │   ├── reeses-sodium-options-fabric-2.0.3+mc1.21.11.jar.mod_data.json
+│   │   │   │       │   ├── rrlsFabric-5.1.15+mc.1.21.11.jar.mod_data.json
+│   │   │   │       │   ├── shulkerboxtooltip-fabric-5.2.16+1.21.11.jar.mod_data.json
+│   │   │   │       │   ├── silk-all-1.11.5.jar.mod_data.json
+│   │   │   │       │   ├── skyboxify-2.7+1.21.11-fabric.jar.mod_data.json
+│   │   │   │       │   ├── sodium-extra-fabric-0.8.3+mc1.21.11.jar.mod_data.json
+│   │   │   │       │   ├── sodium-fabric-0.8.7+mc1.21.11.jar.mod_data.json
+│   │   │   │       │   ├── sodium-shadowy-path-blocks-fabric-6.0.0.jar.mod_data.json
+│   │   │   │       │   ├── spark-1.10.170-fabric.jar.mod_data.json
+│   │   │   │       │   ├── threadtweak-fabric-0.1.8+mc1.21.11.jar.mod_data.json
+│   │   │   │       │   ├── totem_accessory-1.3.0-fabric+1.21.11.jar.mod_data.json
+│   │   │   │       │   ├── trade-cycling-fabric-1.21.11-1.0.20.jar.mod_data.json
+│   │   │   │       │   ├── veinminer-client-2.6.0.jar.mod_data.json
+│   │   │   │       │   ├── veinminer-fabric-2.6.0.jar.mod_data.json
+│   │   │   │       │   ├── waystones-fabric-1.21.11-21.11.9.jar.mod_data.json
+│   │   │   │       │   ├── xaerominimap-fabric-1.21.11-25.3.10.jar.mod_data.json
+│   │   │   │       │   ├── xaeroworldmap-fabric-1.21.11-1.40.11.jar.mod_data.json
+│   │   │   │       │   ├── yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar.mod_data.json
+│   │   │   │       │   └── zoomify-2.15.2+1.21.11.jar.mod_data.json
+│   │   │   │       ├── normal_stop_pid23416.tmp
+│   │   │   │       ├── renderer_pid23416.tmp
+│   │   │   │       ├── successful_launch_pid23416.tmp
+│   │   │   │       └── username.info
+│   │   │   ├── logs
+│   │   │   │   ├── 2026-04-17-1.log.gz
+│   │   │   │   ├── 2026-04-17-2.log.gz
+│   │   │   │   ├── 2026-04-17-3.log.gz
+│   │   │   │   ├── latest.log
+│   │   │   │   ├── stderr_stream.log
+│   │   │   │   └── telemetry
+│   │   │   ├── mods
+│   │   │   │   ├── Almanac-1.21.11-x-fabric-1.6.2.jar
+│   │   │   │   ├── BadOptimizations-2.4.1-1.21.11.jar
+│   │   │   │   ├── BagOfHolding-v21.11.0-mc1.21.11-Fabric.jar
+│   │   │   │   ├── BetterF3-17.0.0-Fabric-1.21.11.jar
+│   │   │   │   ├── BetterGrassify-1.8.3+fabric.1.21.11.jar
+│   │   │   │   ├── Clumps-fabric-1.21.11-29.0.0.1.jar
+│   │   │   │   ├── ConfigManager-fabric-1.21.x-1.1.1.jar
+│   │   │   │   ├── Controlling-fabric-1.21.11-29.0.1.jar
+│   │   │   │   ├── CrashAssistant-fabric-1.21.5-1.21.11-1.11.6.jar
+│   │   │   │   ├── CutThrough-v21.11.0-mc1.21.11-Fabric.jar
+│   │   │   │   ├── DistantHorizons-2.4.5-b-1.21.11-fabric-neoforge.jar
+│   │   │   │   ├── EasyAnvils-v21.11.0-mc1.21.11-Fabric.jar
+│   │   │   │   ├── EasyMagic-v21.11.0-mc1.21.11-Fabric.jar
+│   │   │   │   ├── EasyShulkerBoxes-v21.11.0-mc1.21.11-Fabric.jar
+│   │   │   │   ├── EnchantmentInsights-v21.11.1-mc1.21.11-Fabric.jar
+│   │   │   │   ├── EternalNether-v21.11.0-mc1.21.11-Fabric.jar
+│   │   │   │   ├── EuphoriaPatcher-1.8.6-r5.7.1-fabric.jar
+│   │   │   │   ├── Explorify v1.6.4 f15-88.mod.jar
+│   │   │   │   ├── FallingTree-1.21.11-1.21.11.3.jar
+│   │   │   │   ├── FarmersDelight-1.21.11-3.4.9+refabricated.jar
+│   │   │   │   ├── ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar
+│   │   │   │   ├── FpsReducer2-fabric-1.21.11-2.15.jar
+│   │   │   │   ├── Gamma-Utils-2.5.10+mc1.21.11.jar
+│   │   │   │   ├── HangGlider-v21.11.0-mc1.21.11-Fabric.jar
+│   │   │   │   ├── HealthBars-v21.11.0-mc1.21.11-Fabric.jar
+│   │   │   │   ├── ImmediatelyFast-Fabric-1.14.2+1.21.11.jar
+│   │   │   │   ├── ImmersiveUI-FABRIC-0.3.6+1.21.11.jar
+│   │   │   │   ├── Incendium_26.1_v5.4.12.jar
+│   │   │   │   ├── IronChests-2.0.5.jar
+│   │   │   │   ├── Jade-1.21.11-Fabric-21.1.6.jar
+│   │   │   │   ├── LetMeDespawn-1.21.11-x-fabric-1.6.2.jar
+│   │   │   │   ├── MoogsEndStructures-1.21-2.0.1.jar
+│   │   │   │   ├── MouseTweaks-fabric-mc1.21.11-2.30.jar
+│   │   │   │   ├── NeoEnchant-5.14.0.jar
+│   │   │   │   ├── NoChatReports-FABRIC-1.21.11-v2.18.0.jar
+│   │   │   │   ├── Nullscape_1.21.x_v1.2.17.jar
+│   │   │   │   ├── OverflowingBars-v21.11.0-mc1.21.11-Fabric.jar
+│   │   │   │   ├── PickUpNotifier-v21.11.0-mc1.21.11-Fabric.jar
+│   │   │   │   ├── PuzzlesLib-v21.11.12-mc1.21.11-Fabric.jar
+│   │   │   │   ├── Searchables-fabric-1.21.11-1.0.4.jar
+│   │   │   │   ├── ShatterLib-FABRIC-0.6.0.8+1.21.11.jar
+│   │   │   │   ├── Structory_26.1_v1.3.16.jar
+│   │   │   │   ├── Structory_Towers_26.1_v1.0.16.jar
+│   │   │   │   ├── VisualWorkbench-v21.11.1-mc1.21.11-Fabric.jar
+│   │   │   │   ├── animatica-0.6.1+1.21.5.jar
+│   │   │   │   ├── appleskin-fabric-mc1.21.11-3.0.8.jar
+│   │   │   │   ├── architectury-19.0.1-fabric.jar
+│   │   │   │   ├── balm-fabric-1.21.11-21.11.9.jar
+│   │   │   │   ├── bettermounthud-1.2.6.jar
+│   │   │   │   ├── c2me-fabric-mc1.21.11-0.3.7+alpha.0.9.jar
+│   │   │   │   ├── capes-1.5.10+1.21.11-fabric.jar
+│   │   │   │   ├── carryon-fabric-1.21.11-2.9.0.jar
+│   │   │   │   ├── cloth-config-21.11.153-fabric.jar
+│   │   │   │   ├── continuity-3.0.1-beta.1+1.21.11.jar
+│   │   │   │   ├── controlify-2.5.2+1.21.11-fabric.jar
+│   │   │   │   ├── cwb-fabric-3.0.0-build.14+mc1.21.11.jar
+│   │   │   │   ├── debugify-1.21.11+1.0.jar
+│   │   │   │   ├── dnt-stronghold-overhaul-lite-edition-v1.3.jar
+│   │   │   │   ├── dungeons-and-taverns-ancient-city-overhaul-3.2.3.jar
+│   │   │   │   ├── dungeons-and-taverns-desert-temple-overhaul-v2.1.jar
+│   │   │   │   ├── dungeons-and-taverns-jungle-temple-overhaul-v2.1.jar
+│   │   │   │   ├── dungeons-and-taverns-nether-fortress-overhaul-v3.1.jar
+│   │   │   │   ├── dungeons-and-taverns-v5.1.0.jar
+│   │   │   │   ├── dynamic-fps-3.11.4+minecraft-1.21.11-fabric.jar
+│   │   │   │   ├── e4mc-fabric-6.0.6.jar
+│   │   │   │   ├── enchdesc-fabric-1.21.11-21.11.1.jar
+│   │   │   │   ├── entity_model_features_1.21.11-fabric-3.0.17.jar
+│   │   │   │   ├── entity_texture_features_1.21.11-fabric-7.0.13.jar
+│   │   │   │   ├── entityculling-fabric-1.10.0-mc1.21.11.jar
+│   │   │   │   ├── fabric-api-0.141.3+1.21.11.jar
+│   │   │   │   ├── fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar
+│   │   │   │   ├── fabrishot-1.16.4.jar
+│   │   │   │   ├── fast-chest-1.6+1.21.9.jar
+│   │   │   │   ├── fast-ip-ping-v1.0.11-mc1.21.11-fabric.jar
+│   │   │   │   ├── fastquit-3.1.3+mc1.21.11.jar
+│   │   │   │   ├── ferritecore-8.2.0-fabric.jar
+│   │   │   │   ├── ftb-library-fabric-2111.1.1.jar
+│   │   │   │   ├── ftb-ultimine-fabric-2111.1.1.jar
+│   │   │   │   ├── fzzy_config-0.7.6+1.21.11.jar
+│   │   │   │   ├── gpumemleakfix-fabric-1.21.11-1.9.jar
+│   │   │   │   ├── inventorymanagement-1.6.1+1.21.11.jar
+│   │   │   │   ├── iris-fabric-1.10.7+mc1.21.11.jar
+│   │   │   │   ├── jei-1.21.11-fabric-27.4.0.22.jar
+│   │   │   │   ├── krypton-0.2.10.jar.disabled
+│   │   │   │   ├── lambdynamiclights-4.9.1+1.21.11.jar
+│   │   │   │   ├── language-reload-1.7.6+1.21.11.jar
+│   │   │   │   ├── lithium-fabric-0.21.4+mc1.21.11.jar
+│   │   │   │   ├── main-menu-credits-1.2.0.jar
+│   │   │   │   ├── mixintrace-1.1.1+1.17.jar
+│   │   │   │   ├── modernfix-5.26.2-build.1.jar
+│   │   │   │   ├── modmenu-17.0.0.jar
+│   │   │   │   ├── moogs_structure_lib-1.1.0-1.21.11-fabric.jar
+│   │   │   │   ├── morechathistory-1.3.1.jar
+│   │   │   │   ├── moreculling-fabric-1.21.11-1.6.2.jar
+│   │   │   │   ├── ohmega-1.5.16-fabric+1.21.11.jar
+│   │   │   │   ├── optigui-2.3.0-beta.9+1.21.9.jar
+│   │   │   │   ├── paginatedadvancements-2.8.0+1.21.11.jar
+│   │   │   │   ├── particle_core-0.3.2+1.21.11.jar
+│   │   │   │   ├── polytone-1.21.11-5.4.20-fabric.jar
+│   │   │   │   ├── prickle-fabric-1.21.11-21.11.1.jar
+│   │   │   │   ├── puzzle-fabric-2.3.0+1.21.11.jar
+│   │   │   │   ├── reeses-sodium-options-fabric-2.0.3+mc1.21.11.jar
+│   │   │   │   ├── rrlsFabric-5.1.15+mc.1.21.11.jar
+│   │   │   │   ├── shulkerboxtooltip-fabric-5.2.16+1.21.11.jar
+│   │   │   │   ├── silk-all-1.11.5.jar
+│   │   │   │   ├── skyboxify-2.7+1.21.11-fabric.jar
+│   │   │   │   ├── sodium-extra-fabric-0.8.3+mc1.21.11.jar
+│   │   │   │   ├── sodium-fabric-0.8.7+mc1.21.11.jar
+│   │   │   │   ├── sodium-shadowy-path-blocks-fabric-6.0.0.jar
+│   │   │   │   ├── spark-1.10.170-fabric.jar
+│   │   │   │   ├── threadtweak-fabric-0.1.8+mc1.21.11.jar
+│   │   │   │   ├── totem_accessory-1.3.0-fabric+1.21.11.jar
+│   │   │   │   ├── trade-cycling-fabric-1.21.11-1.0.20.jar
+│   │   │   │   ├── trashslot-fabric-1.21.11-21.11.4.jar
+│   │   │   │   ├── veinminer-client-2.6.0.jar
+│   │   │   │   ├── veinminer-fabric-2.6.0.jar
+│   │   │   │   ├── waystones-fabric-1.21.11-21.11.9.jar
+│   │   │   │   ├── xaerominimap-fabric-1.21.11-25.3.10.jar
+│   │   │   │   ├── xaeroworldmap-fabric-1.21.11-1.40.11.jar
+│   │   │   │   ├── yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar
+│   │   │   │   └── zoomify-2.15.2+1.21.11.jar
+│   │   │   ├── options.txt
+│   │   │   ├── realms_persistence.json
+│   │   │   ├── resourcepacks
+│   │   │   │   ├── Better-GUI-1.9.zip
+│   │   │   │   ├── Chat Reporting Helper.zip
+│   │   │   │   ├── FA+All_Extensions-v1.8.zip
+│   │   │   │   ├── Fast Better Grass.zip
+│   │   │   │   ├── FreshAnimations_v1.10.4.zip
+│   │   │   │   ├── Low Fire.zip
+│   │   │   │   ├── Low Shield.zip
+│   │   │   │   ├── Mod Menu Helper.zip
+│   │   │   │   ├── Powdered Snow+.zip
+│   │   │   │   ├── Short Swords.zip
+│   │   │   │   ├── SodiumTranslations.zip
+│   │   │   │   └── waystones_1.20.1_update_5.zip
+│   │   │   ├── saves
+│   │   │   │   └── New World
+│   │   │   │       ├── DIM-1
+│   │   │   │       │   └── data
+│   │   │   │       │       ├── DistantHorizons.sqlite
+│   │   │   │       │       ├── chunks.dat
+│   │   │   │       │       ├── raids.dat
+│   │   │   │       │       └── world_border.dat
+│   │   │   │       ├── DIM1
+│   │   │   │       │   └── data
+│   │   │   │       │       ├── DistantHorizons.sqlite
+│   │   │   │       │       ├── chunks.dat
+│   │   │   │       │       ├── raids_end.dat
+│   │   │   │       │       └── world_border.dat
+│   │   │   │       ├── advancements
+│   │   │   │       │   └── 7729fd07-388f-4c3c-9a5f-f7749ce810a9.json
+│   │   │   │       ├── data
+│   │   │   │       │   ├── DistantHorizons.sqlite
+│   │   │   │       │   ├── chunks.dat
+│   │   │   │       │   ├── raids.dat
+│   │   │   │       │   ├── random_sequences.dat
+│   │   │   │       │   ├── scoreboard.dat
+│   │   │   │       │   ├── stopwatches.dat
+│   │   │   │       │   ├── waystones.dat
+│   │   │   │       │   └── world_border.dat
+│   │   │   │       ├── datapacks
+│   │   │   │       ├── entities
+│   │   │   │       │   ├── r.-1.-1.mca
+│   │   │   │       │   ├── r.-1.0.mca
+│   │   │   │       │   ├── r.0.-1.mca
+│   │   │   │       │   └── r.0.0.mca
+│   │   │   │       ├── icon.png
+│   │   │   │       ├── level.dat
+│   │   │   │       ├── level.dat_old
+│   │   │   │       ├── playerdata
+│   │   │   │       │   ├── 7729fd07-388f-4c3c-9a5f-f7749ce810a9.dat
+│   │   │   │       │   └── 7729fd07-388f-4c3c-9a5f-f7749ce810a9.dat_old
+│   │   │   │       ├── poi
+│   │   │   │       │   ├── r.-1.-1.mca
+│   │   │   │       │   ├── r.-1.0.mca
+│   │   │   │       │   ├── r.-2.-1.mca
+│   │   │   │       │   ├── r.-2.0.mca
+│   │   │   │       │   ├── r.0.-1.mca
+│   │   │   │       │   ├── r.0.0.mca
+│   │   │   │       │   └── r.0.1.mca
+│   │   │   │       ├── region
+│   │   │   │       │   ├── r.-1.-1.mca
+│   │   │   │       │   ├── r.-1.-2.mca
+│   │   │   │       │   ├── r.-1.0.mca
+│   │   │   │       │   ├── r.-1.1.mca
+│   │   │   │       │   ├── r.-2.-1.mca
+│   │   │   │       │   ├── r.-2.-2.mca
+│   │   │   │       │   ├── r.-2.0.mca
+│   │   │   │       │   ├── r.-2.1.mca
+│   │   │   │       │   ├── r.-3.-1.mca
+│   │   │   │       │   ├── r.-3.-2.mca
+│   │   │   │       │   ├── r.-3.0.mca
+│   │   │   │       │   ├── r.-3.1.mca
+│   │   │   │       │   ├── r.0.-1.mca
+│   │   │   │       │   ├── r.0.-2.mca
+│   │   │   │       │   ├── r.0.0.mca
+│   │   │   │       │   ├── r.0.1.mca
+│   │   │   │       │   ├── r.1.-1.mca
+│   │   │   │       │   ├── r.1.0.mca
+│   │   │   │       │   └── r.1.1.mca
+│   │   │   │       ├── serverconfig
+│   │   │   │       │   └── readme.txt
+│   │   │   │       ├── session.lock
+│   │   │   │       ├── stats
+│   │   │   │       │   └── 7729fd07-388f-4c3c-9a5f-f7749ce810a9.json
+│   │   │   │       └── xaeromap.txt
+│   │   │   ├── screenshots
+│   │   │   ├── server-resource-packs
+│   │   │   ├── shaderpacks
+│   │   │   │   ├── BSL_v10.1.1.zip
+│   │   │   │   ├── ComplementaryReimagined_r5.7.1 + EuphoriaPatches_1.8.6
+│   │   │   │   │   ├── ComplementaryLicense.txt
+│   │   │   │   │   ├── Credits.txt
+│   │   │   │   │   ├── EuphoriaPatchesLicense.txt
+│   │   │   │   │   ├── InformationEuphoriaPatches.md
+│   │   │   │   │   ├── Made for Complementary Shaders r5.7.1.txt
+│   │   │   │   │   ├── addedMods.md
+│   │   │   │   │   └── shaders
+│   │   │   │   │       ├── block.properties
+│   │   │   │   │       ├── blockProperties
+│   │   │   │   │       │   ├── 1.13+
+│   │   │   │   │       │   │   ├── block.10083-10159.properties
+│   │   │   │   │       │   │   ├── block.10160-10241.properties
+│   │   │   │   │       │   │   ├── block.10243-10349.properties
+│   │   │   │   │       │   │   ├── block.10352-10460.properties
+│   │   │   │   │       │   │   ├── block.10461-10608.properties
+│   │   │   │   │       │   │   ├── block.10612-10744.properties
+│   │   │   │   │       │   │   ├── block.10746-10854.properties
+│   │   │   │   │       │   │   ├── block.10856-10964.properties
+│   │   │   │   │       │   │   ├── block.10968-31020.properties
+│   │   │   │   │       │   │   ├── block.31021-32016.properties
+│   │   │   │   │       │   │   ├── block.5000-10081.properties
+│   │   │   │   │       │   │   └── index.md
+│   │   │   │   │       │   ├── 1.7.10
+│   │   │   │   │       │   │   └── block.properties
+│   │   │   │   │       │   ├── 1.8+
+│   │   │   │   │       │   │   └── block.properties
+│   │   │   │   │       │   ├── instructions
+│   │   │   │   │       │   │   └── readme.properties
+│   │   │   │   │       │   ├── renderlayers
+│   │   │   │   │       │   │   └── renderlayers.properties
+│   │   │   │   │       │   └── tags
+│   │   │   │   │       │       └── tags.properties
+│   │   │   │   │       ├── colorwheel.properties
+│   │   │   │   │       ├── dimension.properties
+│   │   │   │   │       ├── entity.properties
+│   │   │   │   │       ├── item.properties
+│   │   │   │   │       ├── lang
+│   │   │   │   │       │   ├── en_US.lang
+│   │   │   │   │       │   ├── ja_JP.lang
+│   │   │   │   │       │   ├── pl_PL.lang
+│   │   │   │   │       │   ├── pt_BR.lang
+│   │   │   │   │       │   ├── ru_RU.lang
+│   │   │   │   │       │   ├── uk_UA.lang
+│   │   │   │   │       │   └── zh_CN.lang
+│   │   │   │   │       ├── lib
+│   │   │   │   │       │   ├── antialiasing
+│   │   │   │   │       │   │   ├── fxaa.glsl
+│   │   │   │   │       │   │   ├── jitter.glsl
+│   │   │   │   │       │   │   └── taa.glsl
+│   │   │   │   │       │   ├── atmospherics
+│   │   │   │   │       │   │   ├── auroraBorealis.glsl
+│   │   │   │   │       │   │   ├── bedrockNoise.glsl
+│   │   │   │   │       │   │   ├── clouds
+│   │   │   │   │       │   │   │   ├── cloudCoord.glsl
+│   │   │   │   │       │   │   │   ├── mainClouds.glsl
+│   │   │   │   │       │   │   │   ├── reimaginedClouds.glsl
+│   │   │   │   │       │   │   │   └── unboundClouds.glsl
+│   │   │   │   │       │   │   ├── endCrystalVortex.glsl
+│   │   │   │   │       │   │   ├── endFlash.glsl
+│   │   │   │   │       │   │   ├── endPortalBeam.glsl
+│   │   │   │   │       │   │   ├── enderBeams.glsl
+│   │   │   │   │       │   │   ├── enderStars.glsl
+│   │   │   │   │       │   │   ├── fog
+│   │   │   │   │       │   │   │   ├── bloomFog.glsl
+│   │   │   │   │       │   │   │   ├── caveFactor.glsl
+│   │   │   │   │       │   │   │   ├── coloredLightFog.glsl
+│   │   │   │   │       │   │   │   ├── endCenterFog.glsl
+│   │   │   │   │       │   │   │   ├── mainFog.glsl
+│   │   │   │   │       │   │   │   └── waterFog.glsl
+│   │   │   │   │       │   │   ├── netherNoise.glsl
+│   │   │   │   │       │   │   ├── netherStorm.glsl
+│   │   │   │   │       │   │   ├── nightNebula.glsl
+│   │   │   │   │       │   │   ├── overworldBeams.glsl
+│   │   │   │   │       │   │   ├── rainbow.glsl
+│   │   │   │   │       │   │   ├── shootingStars.glsl
+│   │   │   │   │       │   │   ├── sky.glsl
+│   │   │   │   │       │   │   ├── stars.glsl
+│   │   │   │   │       │   │   └── volumetricLight.glsl
+│   │   │   │   │       │   ├── colors
+│   │   │   │   │       │   │   ├── blocklightColors.glsl
+│   │   │   │   │       │   │   ├── blocklightColorsACT.glsl
+│   │   │   │   │       │   │   ├── cloudColors.glsl
+│   │   │   │   │       │   │   ├── colorMultipliers.glsl
+│   │   │   │   │       │   │   ├── lightAndAmbientColors.glsl
+│   │   │   │   │       │   │   ├── moonPhaseInfluence.glsl
+│   │   │   │   │       │   │   ├── skyColors.glsl
+│   │   │   │   │       │   │   └── tonemaps.glsl
+│   │   │   │   │       │   ├── common.glsl
+│   │   │   │   │       │   ├── lighting
+│   │   │   │   │       │   │   ├── cloudShadows.glsl
+│   │   │   │   │       │   │   ├── coloredBlocklight.glsl
+│   │   │   │   │       │   │   ├── ggx.glsl
+│   │   │   │   │       │   │   ├── heldLighting.glsl
+│   │   │   │   │       │   │   ├── mainLighting.glsl
+│   │   │   │   │       │   │   ├── minimumLighting.glsl
+│   │   │   │   │       │   │   └── shadowSampling.glsl
+│   │   │   │   │       │   ├── materials
+│   │   │   │   │       │   │   ├── materialHandling
+│   │   │   │   │       │   │   │   ├── blockEntityIPBR.glsl
+│   │   │   │   │       │   │   │   ├── customMaterials.glsl
+│   │   │   │   │       │   │   │   ├── deferredIPBR.glsl
+│   │   │   │   │       │   │   │   ├── deferredMaterials.glsl
+│   │   │   │   │       │   │   │   ├── entityIPBR.glsl
+│   │   │   │   │       │   │   │   ├── irisIPBR.glsl
+│   │   │   │   │       │   │   │   ├── materialDefines.glsl
+│   │   │   │   │       │   │   │   ├── terrainIPBR.glsl
+│   │   │   │   │       │   │   │   └── translucentIPBR.glsl
+│   │   │   │   │       │   │   ├── materialMethods
+│   │   │   │   │       │   │   │   ├── anisotropicFiltering.glsl
+│   │   │   │   │       │   │   │   ├── coatedTextures.glsl
+│   │   │   │   │       │   │   │   ├── connectedGlass.glsl
+│   │   │   │   │       │   │   │   ├── customEmission.glsl
+│   │   │   │   │       │   │   │   ├── generatedNormals.glsl
+│   │   │   │   │       │   │   │   ├── playerRayTracer.glsl
+│   │   │   │   │       │   │   │   ├── pomEffects.glsl
+│   │   │   │   │       │   │   │   ├── reflectionBackground.glsl
+│   │   │   │   │       │   │   │   ├── reflectionBlurFilter.glsl
+│   │   │   │   │       │   │   │   ├── reflections.glsl
+│   │   │   │   │       │   │   │   ├── refraction.glsl
+│   │   │   │   │       │   │   │   ├── snowyWorld.glsl
+│   │   │   │   │       │   │   │   ├── waterProcedureTexture.glsl
+│   │   │   │   │       │   │   │   ├── wavingBlocks.glsl
+│   │   │   │   │       │   │   │   └── worldSpaceRef.glsl
+│   │   │   │   │       │   │   ├── overlayNoise.glsl
+│   │   │   │   │       │   │   ├── overlayNoiseApply.glsl
+│   │   │   │   │       │   │   ├── seasons.glsl
+│   │   │   │   │       │   │   ├── seasonsTime.glsl
+│   │   │   │   │       │   │   └── specificMaterials
+│   │   │   │   │       │   │       ├── entities
+│   │   │   │   │       │   │       │   ├── glowItemFrame.glsl
+│   │   │   │   │       │   │       │   └── itemFrame.glsl
+│   │   │   │   │       │   │       ├── others
+│   │   │   │   │       │   │       │   ├── SpacEagle17.glsl
+│   │   │   │   │       │   │       │   ├── endPortalEffect.glsl
+│   │   │   │   │       │   │       │   ├── lightningBolt.glsl
+│   │   │   │   │       │   │       │   ├── signText.glsl
+│   │   │   │   │       │   │       │   └── trident.glsl
+│   │   │   │   │       │   │       ├── planks
+│   │   │   │   │       │   │       │   ├── acaciaPlanks.glsl
+│   │   │   │   │       │   │       │   ├── bambooPlanks.glsl
+│   │   │   │   │       │   │       │   ├── birchPlanks.glsl
+│   │   │   │   │       │   │       │   ├── cherryPlanks.glsl
+│   │   │   │   │       │   │       │   ├── crimsonPlanks.glsl
+│   │   │   │   │       │   │       │   ├── darkOakPlanks.glsl
+│   │   │   │   │       │   │       │   ├── junglePlanks.glsl
+│   │   │   │   │       │   │       │   ├── mangrovePlanks.glsl
+│   │   │   │   │       │   │       │   ├── oakPlanks.glsl
+│   │   │   │   │       │   │       │   ├── paleOakPlanks.glsl
+│   │   │   │   │       │   │       │   ├── sprucePlanks.glsl
+│   │   │   │   │       │   │       │   └── warpedPlanks.glsl
+│   │   │   │   │       │   │       ├── terrain
+│   │   │   │   │       │   │       │   ├── amethyst.glsl
+│   │   │   │   │       │   │       │   ├── anvil.glsl
+│   │   │   │   │       │   │       │   ├── autoModdedOres.glsl
+│   │   │   │   │       │   │       │   ├── blackstone.glsl
+│   │   │   │   │       │   │       │   ├── candle.glsl
+│   │   │   │   │       │   │       │   ├── cobblestone.glsl
+│   │   │   │   │       │   │       │   ├── copperBlock.glsl
+│   │   │   │   │       │   │       │   ├── copperBulb.glsl
+│   │   │   │   │       │   │       │   ├── coral.glsl
+│   │   │   │   │       │   │       │   ├── cryingObsidian.glsl
+│   │   │   │   │       │   │       │   ├── deepslate.glsl
+│   │   │   │   │       │   │       │   ├── diamondBlock.glsl
+│   │   │   │   │       │   │       │   ├── dirt.glsl
+│   │   │   │   │       │   │       │   ├── emeraldBlock.glsl
+│   │   │   │   │       │   │       │   ├── endPortalFrame.glsl
+│   │   │   │   │       │   │       │   ├── endStone.glsl
+│   │   │   │   │       │   │       │   ├── froglights.glsl
+│   │   │   │   │       │   │       │   ├── goldBlock.glsl
+│   │   │   │   │       │   │       │   ├── ironBlock.glsl
+│   │   │   │   │       │   │       │   ├── lanternMetal.glsl
+│   │   │   │   │       │   │       │   ├── lapisBlock.glsl
+│   │   │   │   │       │   │       │   ├── lava.glsl
+│   │   │   │   │       │   │       │   ├── lavaEdge.glsl
+│   │   │   │   │       │   │       │   ├── lavaNoise.glsl
+│   │   │   │   │       │   │       │   ├── leaves.glsl
+│   │   │   │   │       │   │       │   ├── netheriteBlock.glsl
+│   │   │   │   │       │   │       │   ├── netherrack.glsl
+│   │   │   │   │       │   │       │   ├── oakWood.glsl
+│   │   │   │   │       │   │       │   ├── obsidian.glsl
+│   │   │   │   │       │   │       │   ├── openEyeblossom.glsl
+│   │   │   │   │       │   │       │   ├── paleOakWood.glsl
+│   │   │   │   │       │   │       │   ├── pumpkin.glsl
+│   │   │   │   │       │   │       │   ├── quartzBlock.glsl
+│   │   │   │   │       │   │       │   ├── rawCopperBlock.glsl
+│   │   │   │   │       │   │       │   ├── rawGoldBlock.glsl
+│   │   │   │   │       │   │       │   ├── rawIronBlock.glsl
+│   │   │   │   │       │   │       │   ├── redstoneBlock.glsl
+│   │   │   │   │       │   │       │   ├── redstoneTorch.glsl
+│   │   │   │   │       │   │       │   ├── snow.glsl
+│   │   │   │   │       │   │       │   ├── stone.glsl
+│   │   │   │   │       │   │       │   └── torchflower.glsl
+│   │   │   │   │       │   │       └── translucents
+│   │   │   │   │       │   │           ├── glass.glsl
+│   │   │   │   │       │   │           ├── netherPortal.glsl
+│   │   │   │   │       │   │           ├── stainedGlass.glsl
+│   │   │   │   │       │   │           └── water.glsl
+│   │   │   │   │       │   ├── misc
+│   │   │   │   │       │   │   ├── colorCodedPrograms.glsl
+│   │   │   │   │       │   │   ├── darkOutline.glsl
+│   │   │   │   │       │   │   ├── dhSSAO.glsl
+│   │   │   │   │       │   │   ├── distantLightBokeh.glsl
+│   │   │   │   │       │   │   ├── distortWorld.glsl
+│   │   │   │   │       │   │   ├── handSway.glsl
+│   │   │   │   │       │   │   ├── lensFlare.glsl
+│   │   │   │   │       │   │   ├── myFile.glsl
+│   │   │   │   │       │   │   ├── packing.glsl
+│   │   │   │   │       │   │   ├── pixelCraft.glsl
+│   │   │   │   │       │   │   ├── pixelation.glsl
+│   │   │   │   │       │   │   ├── potato.glsl
+│   │   │   │   │       │   │   ├── reprojection.glsl
+│   │   │   │   │       │   │   ├── shockwave.glsl
+│   │   │   │   │       │   │   ├── showLightLevels.glsl
+│   │   │   │   │       │   │   └── worldOutline.glsl
+│   │   │   │   │       │   ├── pipelineSettings.glsl
+│   │   │   │   │       │   ├── shaderSettings
+│   │   │   │   │       │   │   ├── SSAO.glsl
+│   │   │   │   │       │   │   ├── activateSettings.glsl
+│   │   │   │   │       │   │   ├── bloom.glsl
+│   │   │   │   │       │   │   ├── blueScreen.glsl
+│   │   │   │   │       │   │   ├── clouds.glsl
+│   │   │   │   │       │   │   ├── cloudsAndLighting.glsl
+│   │   │   │   │       │   │   ├── colorMult.glsl
+│   │   │   │   │       │   │   ├── composite1.glsl
+│   │   │   │   │       │   │   ├── composite2.glsl
+│   │   │   │   │       │   │   ├── composite3.glsl
+│   │   │   │   │       │   │   ├── composite5.glsl
+│   │   │   │   │       │   │   ├── deferred1.glsl
+│   │   │   │   │       │   │   ├── emissionMult.glsl
+│   │   │   │   │       │   │   ├── emissiveFlowers.glsl
+│   │   │   │   │       │   │   ├── endBeams.glsl
+│   │   │   │   │       │   │   ├── endFlash.glsl
+│   │   │   │   │       │   │   ├── enderStars.glsl
+│   │   │   │   │       │   │   ├── entities.glsl
+│   │   │   │   │       │   │   ├── entityMaterials.glsl
+│   │   │   │   │       │   │   ├── final.glsl
+│   │   │   │   │       │   │   ├── interactiveFoliage.glsl
+│   │   │   │   │       │   │   ├── lightAndAmbientColors.glsl
+│   │   │   │   │       │   │   ├── longExposure.glsl
+│   │   │   │   │       │   │   ├── mainFog.glsl
+│   │   │   │   │       │   │   ├── mainLighting.glsl
+│   │   │   │   │       │   │   ├── materials.glsl
+│   │   │   │   │       │   │   ├── nightNebula.glsl
+│   │   │   │   │       │   │   ├── overworldBeams.glsl
+│   │   │   │   │       │   │   ├── raindropColor.glsl
+│   │   │   │   │       │   │   ├── settingsFileDefines.glsl
+│   │   │   │   │       │   │   ├── shadowMainLighting.glsl
+│   │   │   │   │       │   │   ├── shockwave.glsl
+│   │   │   │   │       │   │   ├── stars.glsl
+│   │   │   │   │       │   │   ├── tonemaps.glsl
+│   │   │   │   │       │   │   ├── volumetricLight.glsl
+│   │   │   │   │       │   │   ├── water.glsl
+│   │   │   │   │       │   │   ├── wavingBlocks.glsl
+│   │   │   │   │       │   │   └── worldMotionBlur.glsl
+│   │   │   │   │       │   ├── textRendering
+│   │   │   │   │       │   │   ├── all_text_messages.glsl
+│   │   │   │   │       │   │   ├── color_code_info.glsl
+│   │   │   │   │       │   │   ├── error_apple_act.glsl
+│   │   │   │   │       │   │   ├── error_apple_dragon_death.glsl
+│   │   │   │   │       │   │   ├── error_apple_end_crystal.glsl
+│   │   │   │   │       │   │   ├── error_apple_portal_beam.glsl
+│   │   │   │   │       │   │   ├── error_coordinates_act.glsl
+│   │   │   │   │       │   │   ├── error_optifine_act.glsl
+│   │   │   │   │       │   │   ├── error_optifine_af.glsl
+│   │   │   │   │       │   │   ├── error_optifine_dragon_death.glsl
+│   │   │   │   │       │   │   ├── error_optifine_end_crystal.glsl
+│   │   │   │   │       │   │   ├── error_optifine_portal_beam.glsl
+│   │   │   │   │       │   │   ├── error_palette_not_found.glsl
+│   │   │   │   │       │   │   ├── error_shadowdistance_act.glsl
+│   │   │   │   │       │   │   ├── error_shadows_act.glsl
+│   │   │   │   │       │   │   ├── error_wsr_missing_act.glsl
+│   │   │   │   │       │   │   ├── new_Euphoria_Version.glsl
+│   │   │   │   │       │   │   ├── old_ssbl_error.glsl
+│   │   │   │   │       │   │   ├── old_version_ssbl_error.glsl
+│   │   │   │   │       │   │   └── textRenderer.glsl
+│   │   │   │   │       │   ├── textures
+│   │   │   │   │       │   │   ├── cloud-water-old.png
+│   │   │   │   │       │   │   ├── cloud-water-old.png.mcmeta
+│   │   │   │   │       │   │   ├── cloud-water.png
+│   │   │   │   │       │   │   ├── cloud-water.png.mcmeta
+│   │   │   │   │       │   │   ├── clouds_minecrafty-water.png
+│   │   │   │   │       │   │   ├── clouds_minecrafty-water.png.mcmeta
+│   │   │   │   │       │   │   ├── cucumber.png
+│   │   │   │   │       │   │   ├── cucumber.png.mcmeta
+│   │   │   │   │       │   │   ├── euphoria_patches.png
+│   │   │   │   │       │   │   ├── euphoria_patches.png.mcmeta
+│   │   │   │   │       │   │   ├── noise.png
+│   │   │   │   │       │   │   ├── noise.png.mcmeta
+│   │   │   │   │       │   │   ├── potato.png
+│   │   │   │   │       │   │   └── potato.png.mcmeta
+│   │   │   │   │       │   ├── uniforms.glsl
+│   │   │   │   │       │   ├── util
+│   │   │   │   │       │   │   ├── colorConversion.glsl
+│   │   │   │   │       │   │   ├── commonFunctions.glsl
+│   │   │   │   │       │   │   ├── dFdxdFdy.glsl
+│   │   │   │   │       │   │   ├── dither.glsl
+│   │   │   │   │       │   │   ├── miplevel.glsl
+│   │   │   │   │       │   │   └── spaceConversion.glsl
+│   │   │   │   │       │   └── voxelization
+│   │   │   │   │       │       ├── SSBOs
+│   │   │   │   │       │       │   ├── blockDataBuffer.glsl
+│   │   │   │   │       │       │   ├── clearSSBOs.glsl
+│   │   │   │   │       │       │   ├── playerVerticesBuffer.glsl
+│   │   │   │   │       │       │   ├── wsrBuffer.glsl
+│   │   │   │   │       │       │   └── wsrLodBuffer.glsl
+│   │   │   │   │       │       ├── endCrystalVoxelization.glsl
+│   │   │   │   │       │       ├── leavesVoxelization.glsl
+│   │   │   │   │       │       ├── lightVoxelization.glsl
+│   │   │   │   │       │       ├── puddleVoxelization.glsl
+│   │   │   │   │       │       ├── reflectionVoxelData.glsl
+│   │   │   │   │       │       └── reflectionVoxelization.glsl
+│   │   │   │   │       ├── pack.json
+│   │   │   │   │       ├── pack.png
+│   │   │   │   │       ├── palettes
+│   │   │   │   │       │   ├── INSTRUCTIONS.txt
+│   │   │   │   │       │   ├── palette1.png
+│   │   │   │   │       │   ├── palette10.png
+│   │   │   │   │       │   ├── palette2.png
+│   │   │   │   │       │   ├── palette3.png
+│   │   │   │   │       │   ├── palette4.png
+│   │   │   │   │       │   ├── palette5.png
+│   │   │   │   │       │   ├── palette6.png
+│   │   │   │   │       │   ├── palette7.png
+│   │   │   │   │       │   ├── palette8.png
+│   │   │   │   │       │   └── palette9.png
+│   │   │   │   │       ├── program
+│   │   │   │   │       │   ├── composite.glsl
+│   │   │   │   │       │   ├── composite1.glsl
+│   │   │   │   │       │   ├── composite2.glsl
+│   │   │   │   │       │   ├── composite3.glsl
+│   │   │   │   │       │   ├── composite4.glsl
+│   │   │   │   │       │   ├── composite5.glsl
+│   │   │   │   │       │   ├── composite6.glsl
+│   │   │   │   │       │   ├── composite7.glsl
+│   │   │   │   │       │   ├── composite8.glsl
+│   │   │   │   │       │   ├── composite9.glsl
+│   │   │   │   │       │   ├── deferred1.glsl
+│   │   │   │   │       │   ├── dh_terrain.glsl
+│   │   │   │   │       │   ├── dh_water.glsl
+│   │   │   │   │       │   ├── final.glsl
+│   │   │   │   │       │   ├── gbuffers_armor_glint.glsl
+│   │   │   │   │       │   ├── gbuffers_basic.glsl
+│   │   │   │   │       │   ├── gbuffers_beaconbeam.glsl
+│   │   │   │   │       │   ├── gbuffers_block.glsl
+│   │   │   │   │       │   ├── gbuffers_clouds.glsl
+│   │   │   │   │       │   ├── gbuffers_damagedblock.glsl
+│   │   │   │   │       │   ├── gbuffers_entities.glsl
+│   │   │   │   │       │   ├── gbuffers_hand.glsl
+│   │   │   │   │       │   ├── gbuffers_lightning.glsl
+│   │   │   │   │       │   ├── gbuffers_skybasic.glsl
+│   │   │   │   │       │   ├── gbuffers_skytextured.glsl
+│   │   │   │   │       │   ├── gbuffers_spidereyes.glsl
+│   │   │   │   │       │   ├── gbuffers_terrain.glsl
+│   │   │   │   │       │   ├── gbuffers_textured.glsl
+│   │   │   │   │       │   ├── gbuffers_water.glsl
+│   │   │   │   │       │   ├── gbuffers_weather.glsl
+│   │   │   │   │       │   ├── prepare.glsl
+│   │   │   │   │       │   ├── shadow.glsl
+│   │   │   │   │       │   ├── shadowcomp.glsl
+│   │   │   │   │       │   └── template.glsl
+│   │   │   │   │       ├── shaders.properties
+│   │   │   │   │       ├── world-1
+│   │   │   │   │       │   ├── clrwl_gbuffers.fsh
+│   │   │   │   │       │   ├── clrwl_gbuffers.vsh
+│   │   │   │   │       │   ├── clrwl_gbuffers_translucent.fsh
+│   │   │   │   │       │   ├── clrwl_gbuffers_translucent.vsh
+│   │   │   │   │       │   ├── clrwl_shadow.fsh
+│   │   │   │   │       │   ├── clrwl_shadow.vsh
+│   │   │   │   │       │   ├── composite.fsh
+│   │   │   │   │       │   ├── composite.vsh
+│   │   │   │   │       │   ├── composite1.fsh
+│   │   │   │   │       │   ├── composite1.vsh
+│   │   │   │   │       │   ├── composite2.fsh
+│   │   │   │   │       │   ├── composite2.vsh
+│   │   │   │   │       │   ├── composite3.fsh
+│   │   │   │   │       │   ├── composite3.vsh
+│   │   │   │   │       │   ├── composite4.fsh
+│   │   │   │   │       │   ├── composite4.vsh
+│   │   │   │   │       │   ├── composite5.fsh
+│   │   │   │   │       │   ├── composite5.vsh
+│   │   │   │   │       │   ├── composite6.fsh
+│   │   │   │   │       │   ├── composite6.vsh
+│   │   │   │   │       │   ├── composite7.fsh
+│   │   │   │   │       │   ├── composite7.vsh
+│   │   │   │   │       │   ├── composite8.fsh
+│   │   │   │   │       │   ├── composite8.vsh
+│   │   │   │   │       │   ├── composite9.fsh
+│   │   │   │   │       │   ├── composite9.vsh
+│   │   │   │   │       │   ├── deferred1.fsh
+│   │   │   │   │       │   ├── deferred1.vsh
+│   │   │   │   │       │   ├── dh_terrain.fsh
+│   │   │   │   │       │   ├── dh_terrain.vsh
+│   │   │   │   │       │   ├── dh_water.fsh
+│   │   │   │   │       │   ├── dh_water.vsh
+│   │   │   │   │       │   ├── final.fsh
+│   │   │   │   │       │   ├── final.vsh
+│   │   │   │   │       │   ├── gbuffers_armor_glint.fsh
+│   │   │   │   │       │   ├── gbuffers_armor_glint.vsh
+│   │   │   │   │       │   ├── gbuffers_basic.fsh
+│   │   │   │   │       │   ├── gbuffers_basic.vsh
+│   │   │   │   │       │   ├── gbuffers_beaconbeam.fsh
+│   │   │   │   │       │   ├── gbuffers_beaconbeam.vsh
+│   │   │   │   │       │   ├── gbuffers_block.fsh
+│   │   │   │   │       │   ├── gbuffers_block.vsh
+│   │   │   │   │       │   ├── gbuffers_clouds.fsh
+│   │   │   │   │       │   ├── gbuffers_clouds.vsh
+│   │   │   │   │       │   ├── gbuffers_damagedblock.fsh
+│   │   │   │   │       │   ├── gbuffers_damagedblock.vsh
+│   │   │   │   │       │   ├── gbuffers_entities.fsh
+│   │   │   │   │       │   ├── gbuffers_entities.vsh
+│   │   │   │   │       │   ├── gbuffers_entities_glowing.fsh
+│   │   │   │   │       │   ├── gbuffers_entities_glowing.vsh
+│   │   │   │   │       │   ├── gbuffers_hand.fsh
+│   │   │   │   │       │   ├── gbuffers_hand.vsh
+│   │   │   │   │       │   ├── gbuffers_lightning.fsh
+│   │   │   │   │       │   ├── gbuffers_lightning.vsh
+│   │   │   │   │       │   ├── gbuffers_line.fsh
+│   │   │   │   │       │   ├── gbuffers_line.vsh
+│   │   │   │   │       │   ├── gbuffers_skybasic.fsh
+│   │   │   │   │       │   ├── gbuffers_skybasic.vsh
+│   │   │   │   │       │   ├── gbuffers_skytextured.fsh
+│   │   │   │   │       │   ├── gbuffers_skytextured.vsh
+│   │   │   │   │       │   ├── gbuffers_spidereyes.fsh
+│   │   │   │   │       │   ├── gbuffers_spidereyes.vsh
+│   │   │   │   │       │   ├── gbuffers_terrain.fsh
+│   │   │   │   │       │   ├── gbuffers_terrain.vsh
+│   │   │   │   │       │   ├── gbuffers_textured.fsh
+│   │   │   │   │       │   ├── gbuffers_textured.vsh
+│   │   │   │   │       │   ├── gbuffers_water.fsh
+│   │   │   │   │       │   ├── gbuffers_water.vsh
+│   │   │   │   │       │   ├── gbuffers_weather.fsh
+│   │   │   │   │       │   ├── gbuffers_weather.vsh
+│   │   │   │   │       │   ├── shadow.fsh
+│   │   │   │   │       │   ├── shadow.vsh
+│   │   │   │   │       │   └── shadowcomp.csh
+│   │   │   │   │       ├── world0
+│   │   │   │   │       │   ├── clrwl_gbuffers.fsh
+│   │   │   │   │       │   ├── clrwl_gbuffers.vsh
+│   │   │   │   │       │   ├── clrwl_gbuffers_translucent.fsh
+│   │   │   │   │       │   ├── clrwl_gbuffers_translucent.vsh
+│   │   │   │   │       │   ├── clrwl_shadow.fsh
+│   │   │   │   │       │   ├── clrwl_shadow.vsh
+│   │   │   │   │       │   ├── composite.fsh
+│   │   │   │   │       │   ├── composite.vsh
+│   │   │   │   │       │   ├── composite1.fsh
+│   │   │   │   │       │   ├── composite1.vsh
+│   │   │   │   │       │   ├── composite2.fsh
+│   │   │   │   │       │   ├── composite2.vsh
+│   │   │   │   │       │   ├── composite3.fsh
+│   │   │   │   │       │   ├── composite3.vsh
+│   │   │   │   │       │   ├── composite4.fsh
+│   │   │   │   │       │   ├── composite4.vsh
+│   │   │   │   │       │   ├── composite5.fsh
+│   │   │   │   │       │   ├── composite5.vsh
+│   │   │   │   │       │   ├── composite6.fsh
+│   │   │   │   │       │   ├── composite6.vsh
+│   │   │   │   │       │   ├── composite7.fsh
+│   │   │   │   │       │   ├── composite7.vsh
+│   │   │   │   │       │   ├── composite8.fsh
+│   │   │   │   │       │   ├── composite8.vsh
+│   │   │   │   │       │   ├── composite9.fsh
+│   │   │   │   │       │   ├── composite9.vsh
+│   │   │   │   │       │   ├── deferred1.fsh
+│   │   │   │   │       │   ├── deferred1.vsh
+│   │   │   │   │       │   ├── dh_terrain.fsh
+│   │   │   │   │       │   ├── dh_terrain.vsh
+│   │   │   │   │       │   ├── dh_water.fsh
+│   │   │   │   │       │   ├── dh_water.vsh
+│   │   │   │   │       │   ├── final.fsh
+│   │   │   │   │       │   ├── final.vsh
+│   │   │   │   │       │   ├── gbuffers_armor_glint.fsh
+│   │   │   │   │       │   ├── gbuffers_armor_glint.vsh
+│   │   │   │   │       │   ├── gbuffers_basic.fsh
+│   │   │   │   │       │   ├── gbuffers_basic.vsh
+│   │   │   │   │       │   ├── gbuffers_beaconbeam.fsh
+│   │   │   │   │       │   ├── gbuffers_beaconbeam.vsh
+│   │   │   │   │       │   ├── gbuffers_block.fsh
+│   │   │   │   │       │   ├── gbuffers_block.vsh
+│   │   │   │   │       │   ├── gbuffers_clouds.fsh
+│   │   │   │   │       │   ├── gbuffers_clouds.vsh
+│   │   │   │   │       │   ├── gbuffers_damagedblock.fsh
+│   │   │   │   │       │   ├── gbuffers_damagedblock.vsh
+│   │   │   │   │       │   ├── gbuffers_entities.fsh
+│   │   │   │   │       │   ├── gbuffers_entities.vsh
+│   │   │   │   │       │   ├── gbuffers_entities_glowing.fsh
+│   │   │   │   │       │   ├── gbuffers_entities_glowing.vsh
+│   │   │   │   │       │   ├── gbuffers_hand.fsh
+│   │   │   │   │       │   ├── gbuffers_hand.vsh
+│   │   │   │   │       │   ├── gbuffers_lightning.fsh
+│   │   │   │   │       │   ├── gbuffers_lightning.vsh
+│   │   │   │   │       │   ├── gbuffers_line.fsh
+│   │   │   │   │       │   ├── gbuffers_line.vsh
+│   │   │   │   │       │   ├── gbuffers_skybasic.fsh
+│   │   │   │   │       │   ├── gbuffers_skybasic.vsh
+│   │   │   │   │       │   ├── gbuffers_skytextured.fsh
+│   │   │   │   │       │   ├── gbuffers_skytextured.vsh
+│   │   │   │   │       │   ├── gbuffers_spidereyes.fsh
+│   │   │   │   │       │   ├── gbuffers_spidereyes.vsh
+│   │   │   │   │       │   ├── gbuffers_terrain.fsh
+│   │   │   │   │       │   ├── gbuffers_terrain.vsh
+│   │   │   │   │       │   ├── gbuffers_textured.fsh
+│   │   │   │   │       │   ├── gbuffers_textured.vsh
+│   │   │   │   │       │   ├── gbuffers_water.fsh
+│   │   │   │   │       │   ├── gbuffers_water.vsh
+│   │   │   │   │       │   ├── gbuffers_weather.fsh
+│   │   │   │   │       │   ├── gbuffers_weather.vsh
+│   │   │   │   │       │   ├── prepare.fsh
+│   │   │   │   │       │   ├── prepare.vsh
+│   │   │   │   │       │   ├── shadow.fsh
+│   │   │   │   │       │   ├── shadow.vsh
+│   │   │   │   │       │   └── shadowcomp.csh
+│   │   │   │   │       └── world1
+│   │   │   │   │           ├── clrwl_gbuffers.fsh
+│   │   │   │   │           ├── clrwl_gbuffers.vsh
+│   │   │   │   │           ├── clrwl_gbuffers_translucent.fsh
+│   │   │   │   │           ├── clrwl_gbuffers_translucent.vsh
+│   │   │   │   │           ├── clrwl_shadow.fsh
+│   │   │   │   │           ├── clrwl_shadow.vsh
+│   │   │   │   │           ├── composite.fsh
+│   │   │   │   │           ├── composite.vsh
+│   │   │   │   │           ├── composite1.fsh
+│   │   │   │   │           ├── composite1.vsh
+│   │   │   │   │           ├── composite2.fsh
+│   │   │   │   │           ├── composite2.vsh
+│   │   │   │   │           ├── composite3.fsh
+│   │   │   │   │           ├── composite3.vsh
+│   │   │   │   │           ├── composite4.fsh
+│   │   │   │   │           ├── composite4.vsh
+│   │   │   │   │           ├── composite5.fsh
+│   │   │   │   │           ├── composite5.vsh
+│   │   │   │   │           ├── composite6.fsh
+│   │   │   │   │           ├── composite6.vsh
+│   │   │   │   │           ├── composite7.fsh
+│   │   │   │   │           ├── composite7.vsh
+│   │   │   │   │           ├── composite8.fsh
+│   │   │   │   │           ├── composite8.vsh
+│   │   │   │   │           ├── composite9.fsh
+│   │   │   │   │           ├── composite9.vsh
+│   │   │   │   │           ├── deferred1.fsh
+│   │   │   │   │           ├── deferred1.vsh
+│   │   │   │   │           ├── dh_terrain.fsh
+│   │   │   │   │           ├── dh_terrain.vsh
+│   │   │   │   │           ├── dh_water.fsh
+│   │   │   │   │           ├── dh_water.vsh
+│   │   │   │   │           ├── final.fsh
+│   │   │   │   │           ├── final.vsh
+│   │   │   │   │           ├── gbuffers_armor_glint.fsh
+│   │   │   │   │           ├── gbuffers_armor_glint.vsh
+│   │   │   │   │           ├── gbuffers_basic.fsh
+│   │   │   │   │           ├── gbuffers_basic.vsh
+│   │   │   │   │           ├── gbuffers_beaconbeam.fsh
+│   │   │   │   │           ├── gbuffers_beaconbeam.vsh
+│   │   │   │   │           ├── gbuffers_block.fsh
+│   │   │   │   │           ├── gbuffers_block.vsh
+│   │   │   │   │           ├── gbuffers_clouds.fsh
+│   │   │   │   │           ├── gbuffers_clouds.vsh
+│   │   │   │   │           ├── gbuffers_damagedblock.fsh
+│   │   │   │   │           ├── gbuffers_damagedblock.vsh
+│   │   │   │   │           ├── gbuffers_entities.fsh
+│   │   │   │   │           ├── gbuffers_entities.vsh
+│   │   │   │   │           ├── gbuffers_entities_glowing.fsh
+│   │   │   │   │           ├── gbuffers_entities_glowing.vsh
+│   │   │   │   │           ├── gbuffers_hand.fsh
+│   │   │   │   │           ├── gbuffers_hand.vsh
+│   │   │   │   │           ├── gbuffers_lightning.fsh
+│   │   │   │   │           ├── gbuffers_lightning.vsh
+│   │   │   │   │           ├── gbuffers_line.fsh
+│   │   │   │   │           ├── gbuffers_line.vsh
+│   │   │   │   │           ├── gbuffers_skybasic.fsh
+│   │   │   │   │           ├── gbuffers_skybasic.vsh
+│   │   │   │   │           ├── gbuffers_skytextured.fsh
+│   │   │   │   │           ├── gbuffers_skytextured.vsh
+│   │   │   │   │           ├── gbuffers_spidereyes.fsh
+│   │   │   │   │           ├── gbuffers_spidereyes.vsh
+│   │   │   │   │           ├── gbuffers_terrain.fsh
+│   │   │   │   │           ├── gbuffers_terrain.vsh
+│   │   │   │   │           ├── gbuffers_textured.fsh
+│   │   │   │   │           ├── gbuffers_textured.vsh
+│   │   │   │   │           ├── gbuffers_water.fsh
+│   │   │   │   │           ├── gbuffers_water.vsh
+│   │   │   │   │           ├── gbuffers_weather.fsh
+│   │   │   │   │           ├── gbuffers_weather.vsh
+│   │   │   │   │           ├── prepare.fsh
+│   │   │   │   │           ├── prepare.vsh
+│   │   │   │   │           ├── shadow.fsh
+│   │   │   │   │           ├── shadow.vsh
+│   │   │   │   │           └── shadowcomp.csh
+│   │   │   │   ├── ComplementaryReimagined_r5.7.1.zip
+│   │   │   │   ├── ComplementaryUnbound_r5.7.1 + EuphoriaPatches_1.8.6
+│   │   │   │   │   ├── ComplementaryLicense.txt
+│   │   │   │   │   ├── Credits.txt
+│   │   │   │   │   ├── EuphoriaPatchesLicense.txt
+│   │   │   │   │   ├── InformationEuphoriaPatches.md
+│   │   │   │   │   ├── Made for Complementary Shaders r5.7.1.txt
+│   │   │   │   │   ├── addedMods.md
+│   │   │   │   │   └── shaders
+│   │   │   │   │       ├── block.properties
+│   │   │   │   │       ├── blockProperties
+│   │   │   │   │       │   ├── 1.13+
+│   │   │   │   │       │   │   ├── block.10083-10159.properties
+│   │   │   │   │       │   │   ├── block.10160-10241.properties
+│   │   │   │   │       │   │   ├── block.10243-10349.properties
+│   │   │   │   │       │   │   ├── block.10352-10460.properties
+│   │   │   │   │       │   │   ├── block.10461-10608.properties
+│   │   │   │   │       │   │   ├── block.10612-10744.properties
+│   │   │   │   │       │   │   ├── block.10746-10854.properties
+│   │   │   │   │       │   │   ├── block.10856-10964.properties
+│   │   │   │   │       │   │   ├── block.10968-31020.properties
+│   │   │   │   │       │   │   ├── block.31021-32016.properties
+│   │   │   │   │       │   │   ├── block.5000-10081.properties
+│   │   │   │   │       │   │   └── index.md
+│   │   │   │   │       │   ├── 1.7.10
+│   │   │   │   │       │   │   └── block.properties
+│   │   │   │   │       │   ├── 1.8+
+│   │   │   │   │       │   │   └── block.properties
+│   │   │   │   │       │   ├── instructions
+│   │   │   │   │       │   │   └── readme.properties
+│   │   │   │   │       │   ├── renderlayers
+│   │   │   │   │       │   │   └── renderlayers.properties
+│   │   │   │   │       │   └── tags
+│   │   │   │   │       │       └── tags.properties
+│   │   │   │   │       ├── colorwheel.properties
+│   │   │   │   │       ├── dimension.properties
+│   │   │   │   │       ├── entity.properties
+│   │   │   │   │       ├── item.properties
+│   │   │   │   │       ├── lang
+│   │   │   │   │       │   ├── en_US.lang
+│   │   │   │   │       │   ├── ja_JP.lang
+│   │   │   │   │       │   ├── pl_PL.lang
+│   │   │   │   │       │   ├── pt_BR.lang
+│   │   │   │   │       │   ├── ru_RU.lang
+│   │   │   │   │       │   ├── uk_UA.lang
+│   │   │   │   │       │   └── zh_CN.lang
+│   │   │   │   │       ├── lib
+│   │   │   │   │       │   ├── antialiasing
+│   │   │   │   │       │   │   ├── fxaa.glsl
+│   │   │   │   │       │   │   ├── jitter.glsl
+│   │   │   │   │       │   │   └── taa.glsl
+│   │   │   │   │       │   ├── atmospherics
+│   │   │   │   │       │   │   ├── auroraBorealis.glsl
+│   │   │   │   │       │   │   ├── bedrockNoise.glsl
+│   │   │   │   │       │   │   ├── clouds
+│   │   │   │   │       │   │   │   ├── cloudCoord.glsl
+│   │   │   │   │       │   │   │   ├── mainClouds.glsl
+│   │   │   │   │       │   │   │   ├── reimaginedClouds.glsl
+│   │   │   │   │       │   │   │   └── unboundClouds.glsl
+│   │   │   │   │       │   │   ├── endCrystalVortex.glsl
+│   │   │   │   │       │   │   ├── endFlash.glsl
+│   │   │   │   │       │   │   ├── endPortalBeam.glsl
+│   │   │   │   │       │   │   ├── enderBeams.glsl
+│   │   │   │   │       │   │   ├── enderStars.glsl
+│   │   │   │   │       │   │   ├── fog
+│   │   │   │   │       │   │   │   ├── bloomFog.glsl
+│   │   │   │   │       │   │   │   ├── caveFactor.glsl
+│   │   │   │   │       │   │   │   ├── coloredLightFog.glsl
+│   │   │   │   │       │   │   │   ├── endCenterFog.glsl
+│   │   │   │   │       │   │   │   ├── mainFog.glsl
+│   │   │   │   │       │   │   │   └── waterFog.glsl
+│   │   │   │   │       │   │   ├── netherNoise.glsl
+│   │   │   │   │       │   │   ├── netherStorm.glsl
+│   │   │   │   │       │   │   ├── nightNebula.glsl
+│   │   │   │   │       │   │   ├── overworldBeams.glsl
+│   │   │   │   │       │   │   ├── rainbow.glsl
+│   │   │   │   │       │   │   ├── shootingStars.glsl
+│   │   │   │   │       │   │   ├── sky.glsl
+│   │   │   │   │       │   │   ├── stars.glsl
+│   │   │   │   │       │   │   └── volumetricLight.glsl
+│   │   │   │   │       │   ├── colors
+│   │   │   │   │       │   │   ├── blocklightColors.glsl
+│   │   │   │   │       │   │   ├── blocklightColorsACT.glsl
+│   │   │   │   │       │   │   ├── cloudColors.glsl
+│   │   │   │   │       │   │   ├── colorMultipliers.glsl
+│   │   │   │   │       │   │   ├── lightAndAmbientColors.glsl
+│   │   │   │   │       │   │   ├── moonPhaseInfluence.glsl
+│   │   │   │   │       │   │   ├── skyColors.glsl
+│   │   │   │   │       │   │   └── tonemaps.glsl
+│   │   │   │   │       │   ├── common.glsl
+│   │   │   │   │       │   ├── lighting
+│   │   │   │   │       │   │   ├── cloudShadows.glsl
+│   │   │   │   │       │   │   ├── coloredBlocklight.glsl
+│   │   │   │   │       │   │   ├── ggx.glsl
+│   │   │   │   │       │   │   ├── heldLighting.glsl
+│   │   │   │   │       │   │   ├── mainLighting.glsl
+│   │   │   │   │       │   │   ├── minimumLighting.glsl
+│   │   │   │   │       │   │   └── shadowSampling.glsl
+│   │   │   │   │       │   ├── materials
+│   │   │   │   │       │   │   ├── materialHandling
+│   │   │   │   │       │   │   │   ├── blockEntityIPBR.glsl
+│   │   │   │   │       │   │   │   ├── customMaterials.glsl
+│   │   │   │   │       │   │   │   ├── deferredIPBR.glsl
+│   │   │   │   │       │   │   │   ├── deferredMaterials.glsl
+│   │   │   │   │       │   │   │   ├── entityIPBR.glsl
+│   │   │   │   │       │   │   │   ├── irisIPBR.glsl
+│   │   │   │   │       │   │   │   ├── materialDefines.glsl
+│   │   │   │   │       │   │   │   ├── terrainIPBR.glsl
+│   │   │   │   │       │   │   │   └── translucentIPBR.glsl
+│   │   │   │   │       │   │   ├── materialMethods
+│   │   │   │   │       │   │   │   ├── anisotropicFiltering.glsl
+│   │   │   │   │       │   │   │   ├── coatedTextures.glsl
+│   │   │   │   │       │   │   │   ├── connectedGlass.glsl
+│   │   │   │   │       │   │   │   ├── customEmission.glsl
+│   │   │   │   │       │   │   │   ├── generatedNormals.glsl
+│   │   │   │   │       │   │   │   ├── playerRayTracer.glsl
+│   │   │   │   │       │   │   │   ├── pomEffects.glsl
+│   │   │   │   │       │   │   │   ├── reflectionBackground.glsl
+│   │   │   │   │       │   │   │   ├── reflectionBlurFilter.glsl
+│   │   │   │   │       │   │   │   ├── reflections.glsl
+│   │   │   │   │       │   │   │   ├── refraction.glsl
+│   │   │   │   │       │   │   │   ├── snowyWorld.glsl
+│   │   │   │   │       │   │   │   ├── waterProcedureTexture.glsl
+│   │   │   │   │       │   │   │   ├── wavingBlocks.glsl
+│   │   │   │   │       │   │   │   └── worldSpaceRef.glsl
+│   │   │   │   │       │   │   ├── overlayNoise.glsl
+│   │   │   │   │       │   │   ├── overlayNoiseApply.glsl
+│   │   │   │   │       │   │   ├── seasons.glsl
+│   │   │   │   │       │   │   ├── seasonsTime.glsl
+│   │   │   │   │       │   │   └── specificMaterials
+│   │   │   │   │       │   │       ├── entities
+│   │   │   │   │       │   │       │   ├── glowItemFrame.glsl
+│   │   │   │   │       │   │       │   └── itemFrame.glsl
+│   │   │   │   │       │   │       ├── others
+│   │   │   │   │       │   │       │   ├── SpacEagle17.glsl
+│   │   │   │   │       │   │       │   ├── endPortalEffect.glsl
+│   │   │   │   │       │   │       │   ├── lightningBolt.glsl
+│   │   │   │   │       │   │       │   ├── signText.glsl
+│   │   │   │   │       │   │       │   └── trident.glsl
+│   │   │   │   │       │   │       ├── planks
+│   │   │   │   │       │   │       │   ├── acaciaPlanks.glsl
+│   │   │   │   │       │   │       │   ├── bambooPlanks.glsl
+│   │   │   │   │       │   │       │   ├── birchPlanks.glsl
+│   │   │   │   │       │   │       │   ├── cherryPlanks.glsl
+│   │   │   │   │       │   │       │   ├── crimsonPlanks.glsl
+│   │   │   │   │       │   │       │   ├── darkOakPlanks.glsl
+│   │   │   │   │       │   │       │   ├── junglePlanks.glsl
+│   │   │   │   │       │   │       │   ├── mangrovePlanks.glsl
+│   │   │   │   │       │   │       │   ├── oakPlanks.glsl
+│   │   │   │   │       │   │       │   ├── paleOakPlanks.glsl
+│   │   │   │   │       │   │       │   ├── sprucePlanks.glsl
+│   │   │   │   │       │   │       │   └── warpedPlanks.glsl
+│   │   │   │   │       │   │       ├── terrain
+│   │   │   │   │       │   │       │   ├── amethyst.glsl
+│   │   │   │   │       │   │       │   ├── anvil.glsl
+│   │   │   │   │       │   │       │   ├── autoModdedOres.glsl
+│   │   │   │   │       │   │       │   ├── blackstone.glsl
+│   │   │   │   │       │   │       │   ├── candle.glsl
+│   │   │   │   │       │   │       │   ├── cobblestone.glsl
+│   │   │   │   │       │   │       │   ├── copperBlock.glsl
+│   │   │   │   │       │   │       │   ├── copperBulb.glsl
+│   │   │   │   │       │   │       │   ├── coral.glsl
+│   │   │   │   │       │   │       │   ├── cryingObsidian.glsl
+│   │   │   │   │       │   │       │   ├── deepslate.glsl
+│   │   │   │   │       │   │       │   ├── diamondBlock.glsl
+│   │   │   │   │       │   │       │   ├── dirt.glsl
+│   │   │   │   │       │   │       │   ├── emeraldBlock.glsl
+│   │   │   │   │       │   │       │   ├── endPortalFrame.glsl
+│   │   │   │   │       │   │       │   ├── endStone.glsl
+│   │   │   │   │       │   │       │   ├── froglights.glsl
+│   │   │   │   │       │   │       │   ├── goldBlock.glsl
+│   │   │   │   │       │   │       │   ├── ironBlock.glsl
+│   │   │   │   │       │   │       │   ├── lanternMetal.glsl
+│   │   │   │   │       │   │       │   ├── lapisBlock.glsl
+│   │   │   │   │       │   │       │   ├── lava.glsl
+│   │   │   │   │       │   │       │   ├── lavaEdge.glsl
+│   │   │   │   │       │   │       │   ├── lavaNoise.glsl
+│   │   │   │   │       │   │       │   ├── leaves.glsl
+│   │   │   │   │       │   │       │   ├── netheriteBlock.glsl
+│   │   │   │   │       │   │       │   ├── netherrack.glsl
+│   │   │   │   │       │   │       │   ├── oakWood.glsl
+│   │   │   │   │       │   │       │   ├── obsidian.glsl
+│   │   │   │   │       │   │       │   ├── openEyeblossom.glsl
+│   │   │   │   │       │   │       │   ├── paleOakWood.glsl
+│   │   │   │   │       │   │       │   ├── pumpkin.glsl
+│   │   │   │   │       │   │       │   ├── quartzBlock.glsl
+│   │   │   │   │       │   │       │   ├── rawCopperBlock.glsl
+│   │   │   │   │       │   │       │   ├── rawGoldBlock.glsl
+│   │   │   │   │       │   │       │   ├── rawIronBlock.glsl
+│   │   │   │   │       │   │       │   ├── redstoneBlock.glsl
+│   │   │   │   │       │   │       │   ├── redstoneTorch.glsl
+│   │   │   │   │       │   │       │   ├── snow.glsl
+│   │   │   │   │       │   │       │   ├── stone.glsl
+│   │   │   │   │       │   │       │   └── torchflower.glsl
+│   │   │   │   │       │   │       └── translucents
+│   │   │   │   │       │   │           ├── glass.glsl
+│   │   │   │   │       │   │           ├── netherPortal.glsl
+│   │   │   │   │       │   │           ├── stainedGlass.glsl
+│   │   │   │   │       │   │           └── water.glsl
+│   │   │   │   │       │   ├── misc
+│   │   │   │   │       │   │   ├── colorCodedPrograms.glsl
+│   │   │   │   │       │   │   ├── darkOutline.glsl
+│   │   │   │   │       │   │   ├── dhSSAO.glsl
+│   │   │   │   │       │   │   ├── distantLightBokeh.glsl
+│   │   │   │   │       │   │   ├── distortWorld.glsl
+│   │   │   │   │       │   │   ├── handSway.glsl
+│   │   │   │   │       │   │   ├── lensFlare.glsl
+│   │   │   │   │       │   │   ├── myFile.glsl
+│   │   │   │   │       │   │   ├── packing.glsl
+│   │   │   │   │       │   │   ├── pixelCraft.glsl
+│   │   │   │   │       │   │   ├── pixelation.glsl
+│   │   │   │   │       │   │   ├── potato.glsl
+│   │   │   │   │       │   │   ├── reprojection.glsl
+│   │   │   │   │       │   │   ├── shockwave.glsl
+│   │   │   │   │       │   │   ├── showLightLevels.glsl
+│   │   │   │   │       │   │   └── worldOutline.glsl
+│   │   │   │   │       │   ├── pipelineSettings.glsl
+│   │   │   │   │       │   ├── shaderSettings
+│   │   │   │   │       │   │   ├── SSAO.glsl
+│   │   │   │   │       │   │   ├── activateSettings.glsl
+│   │   │   │   │       │   │   ├── bloom.glsl
+│   │   │   │   │       │   │   ├── blueScreen.glsl
+│   │   │   │   │       │   │   ├── clouds.glsl
+│   │   │   │   │       │   │   ├── cloudsAndLighting.glsl
+│   │   │   │   │       │   │   ├── colorMult.glsl
+│   │   │   │   │       │   │   ├── composite1.glsl
+│   │   │   │   │       │   │   ├── composite2.glsl
+│   │   │   │   │       │   │   ├── composite3.glsl
+│   │   │   │   │       │   │   ├── composite5.glsl
+│   │   │   │   │       │   │   ├── deferred1.glsl
+│   │   │   │   │       │   │   ├── emissionMult.glsl
+│   │   │   │   │       │   │   ├── emissiveFlowers.glsl
+│   │   │   │   │       │   │   ├── endBeams.glsl
+│   │   │   │   │       │   │   ├── endFlash.glsl
+│   │   │   │   │       │   │   ├── enderStars.glsl
+│   │   │   │   │       │   │   ├── entities.glsl
+│   │   │   │   │       │   │   ├── entityMaterials.glsl
+│   │   │   │   │       │   │   ├── final.glsl
+│   │   │   │   │       │   │   ├── interactiveFoliage.glsl
+│   │   │   │   │       │   │   ├── lightAndAmbientColors.glsl
+│   │   │   │   │       │   │   ├── longExposure.glsl
+│   │   │   │   │       │   │   ├── mainFog.glsl
+│   │   │   │   │       │   │   ├── mainLighting.glsl
+│   │   │   │   │       │   │   ├── materials.glsl
+│   │   │   │   │       │   │   ├── nightNebula.glsl
+│   │   │   │   │       │   │   ├── overworldBeams.glsl
+│   │   │   │   │       │   │   ├── raindropColor.glsl
+│   │   │   │   │       │   │   ├── settingsFileDefines.glsl
+│   │   │   │   │       │   │   ├── shadowMainLighting.glsl
+│   │   │   │   │       │   │   ├── shockwave.glsl
+│   │   │   │   │       │   │   ├── stars.glsl
+│   │   │   │   │       │   │   ├── tonemaps.glsl
+│   │   │   │   │       │   │   ├── volumetricLight.glsl
+│   │   │   │   │       │   │   ├── water.glsl
+│   │   │   │   │       │   │   ├── wavingBlocks.glsl
+│   │   │   │   │       │   │   └── worldMotionBlur.glsl
+│   │   │   │   │       │   ├── textRendering
+│   │   │   │   │       │   │   ├── all_text_messages.glsl
+│   │   │   │   │       │   │   ├── color_code_info.glsl
+│   │   │   │   │       │   │   ├── error_apple_act.glsl
+│   │   │   │   │       │   │   ├── error_apple_dragon_death.glsl
+│   │   │   │   │       │   │   ├── error_apple_end_crystal.glsl
+│   │   │   │   │       │   │   ├── error_apple_portal_beam.glsl
+│   │   │   │   │       │   │   ├── error_coordinates_act.glsl
+│   │   │   │   │       │   │   ├── error_optifine_act.glsl
+│   │   │   │   │       │   │   ├── error_optifine_af.glsl
+│   │   │   │   │       │   │   ├── error_optifine_dragon_death.glsl
+│   │   │   │   │       │   │   ├── error_optifine_end_crystal.glsl
+│   │   │   │   │       │   │   ├── error_optifine_portal_beam.glsl
+│   │   │   │   │       │   │   ├── error_palette_not_found.glsl
+│   │   │   │   │       │   │   ├── error_shadowdistance_act.glsl
+│   │   │   │   │       │   │   ├── error_shadows_act.glsl
+│   │   │   │   │       │   │   ├── error_wsr_missing_act.glsl
+│   │   │   │   │       │   │   ├── new_Euphoria_Version.glsl
+│   │   │   │   │       │   │   ├── old_ssbl_error.glsl
+│   │   │   │   │       │   │   ├── old_version_ssbl_error.glsl
+│   │   │   │   │       │   │   └── textRenderer.glsl
+│   │   │   │   │       │   ├── textures
+│   │   │   │   │       │   │   ├── cloud-water-old.png
+│   │   │   │   │       │   │   ├── cloud-water-old.png.mcmeta
+│   │   │   │   │       │   │   ├── cloud-water.png
+│   │   │   │   │       │   │   ├── cloud-water.png.mcmeta
+│   │   │   │   │       │   │   ├── clouds_minecrafty-water.png
+│   │   │   │   │       │   │   ├── clouds_minecrafty-water.png.mcmeta
+│   │   │   │   │       │   │   ├── cucumber.png
+│   │   │   │   │       │   │   ├── cucumber.png.mcmeta
+│   │   │   │   │       │   │   ├── euphoria_patches.png
+│   │   │   │   │       │   │   ├── euphoria_patches.png.mcmeta
+│   │   │   │   │       │   │   ├── noise.png
+│   │   │   │   │       │   │   ├── noise.png.mcmeta
+│   │   │   │   │       │   │   ├── potato.png
+│   │   │   │   │       │   │   └── potato.png.mcmeta
+│   │   │   │   │       │   ├── uniforms.glsl
+│   │   │   │   │       │   ├── util
+│   │   │   │   │       │   │   ├── colorConversion.glsl
+│   │   │   │   │       │   │   ├── commonFunctions.glsl
+│   │   │   │   │       │   │   ├── dFdxdFdy.glsl
+│   │   │   │   │       │   │   ├── dither.glsl
+│   │   │   │   │       │   │   ├── miplevel.glsl
+│   │   │   │   │       │   │   └── spaceConversion.glsl
+│   │   │   │   │       │   └── voxelization
+│   │   │   │   │       │       ├── SSBOs
+│   │   │   │   │       │       │   ├── blockDataBuffer.glsl
+│   │   │   │   │       │       │   ├── clearSSBOs.glsl
+│   │   │   │   │       │       │   ├── playerVerticesBuffer.glsl
+│   │   │   │   │       │       │   ├── wsrBuffer.glsl
+│   │   │   │   │       │       │   └── wsrLodBuffer.glsl
+│   │   │   │   │       │       ├── endCrystalVoxelization.glsl
+│   │   │   │   │       │       ├── leavesVoxelization.glsl
+│   │   │   │   │       │       ├── lightVoxelization.glsl
+│   │   │   │   │       │       ├── puddleVoxelization.glsl
+│   │   │   │   │       │       ├── reflectionVoxelData.glsl
+│   │   │   │   │       │       └── reflectionVoxelization.glsl
+│   │   │   │   │       ├── pack.json
+│   │   │   │   │       ├── pack.png
+│   │   │   │   │       ├── palettes
+│   │   │   │   │       │   ├── INSTRUCTIONS.txt
+│   │   │   │   │       │   ├── palette1.png
+│   │   │   │   │       │   ├── palette10.png
+│   │   │   │   │       │   ├── palette2.png
+│   │   │   │   │       │   ├── palette3.png
+│   │   │   │   │       │   ├── palette4.png
+│   │   │   │   │       │   ├── palette5.png
+│   │   │   │   │       │   ├── palette6.png
+│   │   │   │   │       │   ├── palette7.png
+│   │   │   │   │       │   ├── palette8.png
+│   │   │   │   │       │   └── palette9.png
+│   │   │   │   │       ├── program
+│   │   │   │   │       │   ├── composite.glsl
+│   │   │   │   │       │   ├── composite1.glsl
+│   │   │   │   │       │   ├── composite2.glsl
+│   │   │   │   │       │   ├── composite3.glsl
+│   │   │   │   │       │   ├── composite4.glsl
+│   │   │   │   │       │   ├── composite5.glsl
+│   │   │   │   │       │   ├── composite6.glsl
+│   │   │   │   │       │   ├── composite7.glsl
+│   │   │   │   │       │   ├── composite8.glsl
+│   │   │   │   │       │   ├── composite9.glsl
+│   │   │   │   │       │   ├── deferred1.glsl
+│   │   │   │   │       │   ├── dh_terrain.glsl
+│   │   │   │   │       │   ├── dh_water.glsl
+│   │   │   │   │       │   ├── final.glsl
+│   │   │   │   │       │   ├── gbuffers_armor_glint.glsl
+│   │   │   │   │       │   ├── gbuffers_basic.glsl
+│   │   │   │   │       │   ├── gbuffers_beaconbeam.glsl
+│   │   │   │   │       │   ├── gbuffers_block.glsl
+│   │   │   │   │       │   ├── gbuffers_clouds.glsl
+│   │   │   │   │       │   ├── gbuffers_damagedblock.glsl
+│   │   │   │   │       │   ├── gbuffers_entities.glsl
+│   │   │   │   │       │   ├── gbuffers_hand.glsl
+│   │   │   │   │       │   ├── gbuffers_lightning.glsl
+│   │   │   │   │       │   ├── gbuffers_skybasic.glsl
+│   │   │   │   │       │   ├── gbuffers_skytextured.glsl
+│   │   │   │   │       │   ├── gbuffers_spidereyes.glsl
+│   │   │   │   │       │   ├── gbuffers_terrain.glsl
+│   │   │   │   │       │   ├── gbuffers_textured.glsl
+│   │   │   │   │       │   ├── gbuffers_water.glsl
+│   │   │   │   │       │   ├── gbuffers_weather.glsl
+│   │   │   │   │       │   ├── prepare.glsl
+│   │   │   │   │       │   ├── shadow.glsl
+│   │   │   │   │       │   ├── shadowcomp.glsl
+│   │   │   │   │       │   └── template.glsl
+│   │   │   │   │       ├── shaders.properties
+│   │   │   │   │       ├── world-1
+│   │   │   │   │       │   ├── clrwl_gbuffers.fsh
+│   │   │   │   │       │   ├── clrwl_gbuffers.vsh
+│   │   │   │   │       │   ├── clrwl_gbuffers_translucent.fsh
+│   │   │   │   │       │   ├── clrwl_gbuffers_translucent.vsh
+│   │   │   │   │       │   ├── clrwl_shadow.fsh
+│   │   │   │   │       │   ├── clrwl_shadow.vsh
+│   │   │   │   │       │   ├── composite.fsh
+│   │   │   │   │       │   ├── composite.vsh
+│   │   │   │   │       │   ├── composite1.fsh
+│   │   │   │   │       │   ├── composite1.vsh
+│   │   │   │   │       │   ├── composite2.fsh
+│   │   │   │   │       │   ├── composite2.vsh
+│   │   │   │   │       │   ├── composite3.fsh
+│   │   │   │   │       │   ├── composite3.vsh
+│   │   │   │   │       │   ├── composite4.fsh
+│   │   │   │   │       │   ├── composite4.vsh
+│   │   │   │   │       │   ├── composite5.fsh
+│   │   │   │   │       │   ├── composite5.vsh
+│   │   │   │   │       │   ├── composite6.fsh
+│   │   │   │   │       │   ├── composite6.vsh
+│   │   │   │   │       │   ├── composite7.fsh
+│   │   │   │   │       │   ├── composite7.vsh
+│   │   │   │   │       │   ├── composite8.fsh
+│   │   │   │   │       │   ├── composite8.vsh
+│   │   │   │   │       │   ├── composite9.fsh
+│   │   │   │   │       │   ├── composite9.vsh
+│   │   │   │   │       │   ├── deferred1.fsh
+│   │   │   │   │       │   ├── deferred1.vsh
+│   │   │   │   │       │   ├── dh_terrain.fsh
+│   │   │   │   │       │   ├── dh_terrain.vsh
+│   │   │   │   │       │   ├── dh_water.fsh
+│   │   │   │   │       │   ├── dh_water.vsh
+│   │   │   │   │       │   ├── final.fsh
+│   │   │   │   │       │   ├── final.vsh
+│   │   │   │   │       │   ├── gbuffers_armor_glint.fsh
+│   │   │   │   │       │   ├── gbuffers_armor_glint.vsh
+│   │   │   │   │       │   ├── gbuffers_basic.fsh
+│   │   │   │   │       │   ├── gbuffers_basic.vsh
+│   │   │   │   │       │   ├── gbuffers_beaconbeam.fsh
+│   │   │   │   │       │   ├── gbuffers_beaconbeam.vsh
+│   │   │   │   │       │   ├── gbuffers_block.fsh
+│   │   │   │   │       │   ├── gbuffers_block.vsh
+│   │   │   │   │       │   ├── gbuffers_clouds.fsh
+│   │   │   │   │       │   ├── gbuffers_clouds.vsh
+│   │   │   │   │       │   ├── gbuffers_damagedblock.fsh
+│   │   │   │   │       │   ├── gbuffers_damagedblock.vsh
+│   │   │   │   │       │   ├── gbuffers_entities.fsh
+│   │   │   │   │       │   ├── gbuffers_entities.vsh
+│   │   │   │   │       │   ├── gbuffers_entities_glowing.fsh
+│   │   │   │   │       │   ├── gbuffers_entities_glowing.vsh
+│   │   │   │   │       │   ├── gbuffers_hand.fsh
+│   │   │   │   │       │   ├── gbuffers_hand.vsh
+│   │   │   │   │       │   ├── gbuffers_lightning.fsh
+│   │   │   │   │       │   ├── gbuffers_lightning.vsh
+│   │   │   │   │       │   ├── gbuffers_line.fsh
+│   │   │   │   │       │   ├── gbuffers_line.vsh
+│   │   │   │   │       │   ├── gbuffers_skybasic.fsh
+│   │   │   │   │       │   ├── gbuffers_skybasic.vsh
+│   │   │   │   │       │   ├── gbuffers_skytextured.fsh
+│   │   │   │   │       │   ├── gbuffers_skytextured.vsh
+│   │   │   │   │       │   ├── gbuffers_spidereyes.fsh
+│   │   │   │   │       │   ├── gbuffers_spidereyes.vsh
+│   │   │   │   │       │   ├── gbuffers_terrain.fsh
+│   │   │   │   │       │   ├── gbuffers_terrain.vsh
+│   │   │   │   │       │   ├── gbuffers_textured.fsh
+│   │   │   │   │       │   ├── gbuffers_textured.vsh
+│   │   │   │   │       │   ├── gbuffers_water.fsh
+│   │   │   │   │       │   ├── gbuffers_water.vsh
+│   │   │   │   │       │   ├── gbuffers_weather.fsh
+│   │   │   │   │       │   ├── gbuffers_weather.vsh
+│   │   │   │   │       │   ├── shadow.fsh
+│   │   │   │   │       │   ├── shadow.vsh
+│   │   │   │   │       │   └── shadowcomp.csh
+│   │   │   │   │       ├── world0
+│   │   │   │   │       │   ├── clrwl_gbuffers.fsh
+│   │   │   │   │       │   ├── clrwl_gbuffers.vsh
+│   │   │   │   │       │   ├── clrwl_gbuffers_translucent.fsh
+│   │   │   │   │       │   ├── clrwl_gbuffers_translucent.vsh
+│   │   │   │   │       │   ├── clrwl_shadow.fsh
+│   │   │   │   │       │   ├── clrwl_shadow.vsh
+│   │   │   │   │       │   ├── composite.fsh
+│   │   │   │   │       │   ├── composite.vsh
+│   │   │   │   │       │   ├── composite1.fsh
+│   │   │   │   │       │   ├── composite1.vsh
+│   │   │   │   │       │   ├── composite2.fsh
+│   │   │   │   │       │   ├── composite2.vsh
+│   │   │   │   │       │   ├── composite3.fsh
+│   │   │   │   │       │   ├── composite3.vsh
+│   │   │   │   │       │   ├── composite4.fsh
+│   │   │   │   │       │   ├── composite4.vsh
+│   │   │   │   │       │   ├── composite5.fsh
+│   │   │   │   │       │   ├── composite5.vsh
+│   │   │   │   │       │   ├── composite6.fsh
+│   │   │   │   │       │   ├── composite6.vsh
+│   │   │   │   │       │   ├── composite7.fsh
+│   │   │   │   │       │   ├── composite7.vsh
+│   │   │   │   │       │   ├── composite8.fsh
+│   │   │   │   │       │   ├── composite8.vsh
+│   │   │   │   │       │   ├── composite9.fsh
+│   │   │   │   │       │   ├── composite9.vsh
+│   │   │   │   │       │   ├── deferred1.fsh
+│   │   │   │   │       │   ├── deferred1.vsh
+│   │   │   │   │       │   ├── dh_terrain.fsh
+│   │   │   │   │       │   ├── dh_terrain.vsh
+│   │   │   │   │       │   ├── dh_water.fsh
+│   │   │   │   │       │   ├── dh_water.vsh
+│   │   │   │   │       │   ├── final.fsh
+│   │   │   │   │       │   ├── final.vsh
+│   │   │   │   │       │   ├── gbuffers_armor_glint.fsh
+│   │   │   │   │       │   ├── gbuffers_armor_glint.vsh
+│   │   │   │   │       │   ├── gbuffers_basic.fsh
+│   │   │   │   │       │   ├── gbuffers_basic.vsh
+│   │   │   │   │       │   ├── gbuffers_beaconbeam.fsh
+│   │   │   │   │       │   ├── gbuffers_beaconbeam.vsh
+│   │   │   │   │       │   ├── gbuffers_block.fsh
+│   │   │   │   │       │   ├── gbuffers_block.vsh
+│   │   │   │   │       │   ├── gbuffers_clouds.fsh
+│   │   │   │   │       │   ├── gbuffers_clouds.vsh
+│   │   │   │   │       │   ├── gbuffers_damagedblock.fsh
+│   │   │   │   │       │   ├── gbuffers_damagedblock.vsh
+│   │   │   │   │       │   ├── gbuffers_entities.fsh
+│   │   │   │   │       │   ├── gbuffers_entities.vsh
+│   │   │   │   │       │   ├── gbuffers_entities_glowing.fsh
+│   │   │   │   │       │   ├── gbuffers_entities_glowing.vsh
+│   │   │   │   │       │   ├── gbuffers_hand.fsh
+│   │   │   │   │       │   ├── gbuffers_hand.vsh
+│   │   │   │   │       │   ├── gbuffers_lightning.fsh
+│   │   │   │   │       │   ├── gbuffers_lightning.vsh
+│   │   │   │   │       │   ├── gbuffers_line.fsh
+│   │   │   │   │       │   ├── gbuffers_line.vsh
+│   │   │   │   │       │   ├── gbuffers_skybasic.fsh
+│   │   │   │   │       │   ├── gbuffers_skybasic.vsh
+│   │   │   │   │       │   ├── gbuffers_skytextured.fsh
+│   │   │   │   │       │   ├── gbuffers_skytextured.vsh
+│   │   │   │   │       │   ├── gbuffers_spidereyes.fsh
+│   │   │   │   │       │   ├── gbuffers_spidereyes.vsh
+│   │   │   │   │       │   ├── gbuffers_terrain.fsh
+│   │   │   │   │       │   ├── gbuffers_terrain.vsh
+│   │   │   │   │       │   ├── gbuffers_textured.fsh
+│   │   │   │   │       │   ├── gbuffers_textured.vsh
+│   │   │   │   │       │   ├── gbuffers_water.fsh
+│   │   │   │   │       │   ├── gbuffers_water.vsh
+│   │   │   │   │       │   ├── gbuffers_weather.fsh
+│   │   │   │   │       │   ├── gbuffers_weather.vsh
+│   │   │   │   │       │   ├── prepare.fsh
+│   │   │   │   │       │   ├── prepare.vsh
+│   │   │   │   │       │   ├── shadow.fsh
+│   │   │   │   │       │   ├── shadow.vsh
+│   │   │   │   │       │   └── shadowcomp.csh
+│   │   │   │   │       └── world1
+│   │   │   │   │           ├── clrwl_gbuffers.fsh
+│   │   │   │   │           ├── clrwl_gbuffers.vsh
+│   │   │   │   │           ├── clrwl_gbuffers_translucent.fsh
+│   │   │   │   │           ├── clrwl_gbuffers_translucent.vsh
+│   │   │   │   │           ├── clrwl_shadow.fsh
+│   │   │   │   │           ├── clrwl_shadow.vsh
+│   │   │   │   │           ├── composite.fsh
+│   │   │   │   │           ├── composite.vsh
+│   │   │   │   │           ├── composite1.fsh
+│   │   │   │   │           ├── composite1.vsh
+│   │   │   │   │           ├── composite2.fsh
+│   │   │   │   │           ├── composite2.vsh
+│   │   │   │   │           ├── composite3.fsh
+│   │   │   │   │           ├── composite3.vsh
+│   │   │   │   │           ├── composite4.fsh
+│   │   │   │   │           ├── composite4.vsh
+│   │   │   │   │           ├── composite5.fsh
+│   │   │   │   │           ├── composite5.vsh
+│   │   │   │   │           ├── composite6.fsh
+│   │   │   │   │           ├── composite6.vsh
+│   │   │   │   │           ├── composite7.fsh
+│   │   │   │   │           ├── composite7.vsh
+│   │   │   │   │           ├── composite8.fsh
+│   │   │   │   │           ├── composite8.vsh
+│   │   │   │   │           ├── composite9.fsh
+│   │   │   │   │           ├── composite9.vsh
+│   │   │   │   │           ├── deferred1.fsh
+│   │   │   │   │           ├── deferred1.vsh
+│   │   │   │   │           ├── dh_terrain.fsh
+│   │   │   │   │           ├── dh_terrain.vsh
+│   │   │   │   │           ├── dh_water.fsh
+│   │   │   │   │           ├── dh_water.vsh
+│   │   │   │   │           ├── final.fsh
+│   │   │   │   │           ├── final.vsh
+│   │   │   │   │           ├── gbuffers_armor_glint.fsh
+│   │   │   │   │           ├── gbuffers_armor_glint.vsh
+│   │   │   │   │           ├── gbuffers_basic.fsh
+│   │   │   │   │           ├── gbuffers_basic.vsh
+│   │   │   │   │           ├── gbuffers_beaconbeam.fsh
+│   │   │   │   │           ├── gbuffers_beaconbeam.vsh
+│   │   │   │   │           ├── gbuffers_block.fsh
+│   │   │   │   │           ├── gbuffers_block.vsh
+│   │   │   │   │           ├── gbuffers_clouds.fsh
+│   │   │   │   │           ├── gbuffers_clouds.vsh
+│   │   │   │   │           ├── gbuffers_damagedblock.fsh
+│   │   │   │   │           ├── gbuffers_damagedblock.vsh
+│   │   │   │   │           ├── gbuffers_entities.fsh
+│   │   │   │   │           ├── gbuffers_entities.vsh
+│   │   │   │   │           ├── gbuffers_entities_glowing.fsh
+│   │   │   │   │           ├── gbuffers_entities_glowing.vsh
+│   │   │   │   │           ├── gbuffers_hand.fsh
+│   │   │   │   │           ├── gbuffers_hand.vsh
+│   │   │   │   │           ├── gbuffers_lightning.fsh
+│   │   │   │   │           ├── gbuffers_lightning.vsh
+│   │   │   │   │           ├── gbuffers_line.fsh
+│   │   │   │   │           ├── gbuffers_line.vsh
+│   │   │   │   │           ├── gbuffers_skybasic.fsh
+│   │   │   │   │           ├── gbuffers_skybasic.vsh
+│   │   │   │   │           ├── gbuffers_skytextured.fsh
+│   │   │   │   │           ├── gbuffers_skytextured.vsh
+│   │   │   │   │           ├── gbuffers_spidereyes.fsh
+│   │   │   │   │           ├── gbuffers_spidereyes.vsh
+│   │   │   │   │           ├── gbuffers_terrain.fsh
+│   │   │   │   │           ├── gbuffers_terrain.vsh
+│   │   │   │   │           ├── gbuffers_textured.fsh
+│   │   │   │   │           ├── gbuffers_textured.vsh
+│   │   │   │   │           ├── gbuffers_water.fsh
+│   │   │   │   │           ├── gbuffers_water.vsh
+│   │   │   │   │           ├── gbuffers_weather.fsh
+│   │   │   │   │           ├── gbuffers_weather.vsh
+│   │   │   │   │           ├── prepare.fsh
+│   │   │   │   │           ├── prepare.vsh
+│   │   │   │   │           ├── shadow.fsh
+│   │   │   │   │           ├── shadow.vsh
+│   │   │   │   │           └── shadowcomp.csh
+│   │   │   │   ├── ComplementaryUnbound_r5.7.1.zip
+│   │   │   │   ├── Solas Shader V3.5.zip
+│   │   │   │   ├── bsl-shaders.pw.toml
+│   │   │   │   ├── complementary-reimagined.pw.toml
+│   │   │   │   ├── complementary-unbound.pw.toml
+│   │   │   │   └── solas-shader.pw.toml
+│   │   │   ├── texturepacks
+│   │   │   ├── usercache.json
+│   │   │   └── xaero
+│   │   │       ├── minimap
+│   │   │       │   ├── New World
+│   │   │       │   │   └── config.txt
+│   │   │       │   └── backup
+│   │   │       └── world-map
+│   │   │           └── New World
+│   │   │               ├── null
+│   │   │               │   ├── cache_1
+│   │   │               │   │   ├── -1_-1.xwmc.outdated
+│   │   │               │   │   ├── -1_0.xwmc.outdated
+│   │   │               │   │   └── 0_0.xwmc.outdated
+│   │   │               │   ├── caves
+│   │   │               │   └── dimension_config.txt
+│   │   │               └── server_config.txt
+│   │   ├── mmc-pack.json
+│   │   └── mrpack
+│   │       ├── modrinth.index.json
+│   │       └── overrides.txt
+│   ├── config
+│   │   ├── crash_assistant
+│   │   │   ├── config.toml
+│   │   │   └── crash_assistant_localization_overrides
+│   │   │       ├── be_by.json
+│   │   │       ├── en_us.json
+│   │   │       ├── es_es.json
+│   │   │       ├── es_ve.json
+│   │   │       ├── et_ee.json
+│   │   │       ├── fr_fr.json
+│   │   │       ├── he_il.json
+│   │   │       ├── it_it.json
+│   │   │       ├── ms_my.json
+│   │   │       ├── pl_pl.json
+│   │   │       ├── ro_ro.json
+│   │   │       ├── ru_ru.json
+│   │   │       ├── vi_vn.json
+│   │   │       ├── zh_cn.json
+│   │   │       ├── zh_tw.json
+│   │   │       └── zlm_arab.json
+│   │   ├── fabric_loader_dependencies.json
+│   │   ├── isxander-main-menu-credits.json
+│   │   └── modpack_defaults
+│   │       ├── config
+│   │       │   ├── NoChatReports
+│   │       │   │   ├── NCR-Client.json
+│   │       │   │   └── NCR-Common.json
+│   │       │   ├── PaginatedAdvancements.json5
+│   │       │   ├── bettergrass.json
+│   │       │   ├── cape-provider
+│   │       │   │   └── config.json
+│   │       │   ├── crash_assistant
+│   │       │   │   ├── config.toml
+│   │       │   │   └── crash_assistant_localization_overrides
+│   │       │   │       ├── be_by.json
+│   │       │   │       ├── en_us.json
+│   │       │   │       ├── es_es.json
+│   │       │   │       ├── es_ve.json
+│   │       │   │       ├── et_ee.json
+│   │       │   │       ├── fr_fr.json
+│   │       │   │       ├── he_il.json
+│   │       │   │       ├── it_it.json
+│   │       │   │       ├── ms_my.json
+│   │       │   │       ├── pl_pl.json
+│   │       │   │       ├── ro_ro.json
+│   │       │   │       ├── ru_ru.json
+│   │       │   │       ├── vi_vn.json
+│   │       │   │       ├── zh_cn.json
+│   │       │   │       ├── zh_tw.json
+│   │       │   │       └── zlm_arab.json
+│   │       │   ├── debugify.json
+│   │       │   ├── dynamic_fps.json
+│   │       │   ├── entity_texture_features.json
+│   │       │   ├── fabric_loader_dependencies.json
+│   │       │   ├── fabrishot.properties
+│   │       │   ├── fastquit.toml
+│   │       │   ├── iris.properties
+│   │       │   ├── isxander-main-menu-credits.json
+│   │       │   ├── lambdynlights.toml
+│   │       │   ├── midnightlib.json
+│   │       │   ├── modmenu.json
+│   │       │   ├── moreculling.toml
+│   │       │   ├── rrls.toml
+│   │       │   ├── sodium-extra-options.json
+│   │       │   └── sodium-shadowy-path-blocks-options.json
+│   │       ├── debug-profile.json
+│   │       └── options.txt
+│   ├── coremods
+│   ├── mods
+│   │   ├── BadOptimizations-2.4.1-26.1-fabric.jar
+│   │   ├── BetterGrassify-1.8.4+fabric.26.1.1.jar
+│   │   ├── Clumps-fabric-26.1.2-26.1.2.1.jar
+│   │   ├── ConfigManager-fabric-26.1-1.1.2.jar
+│   │   ├── Controlling-fabric-26.1.2-26.1.2.1.jar
+│   │   ├── CrashAssistant-fabric-26.1-1.11.8.jar
+│   │   ├── ForgeConfigAPIPort-v26.1.3-mc26.1.x-Fabric.jar
+│   │   ├── FpsReducer2-fabric-26.1-2.16.jar
+│   │   ├── Gamma-Utils-3.0.0+mc26.1.jar
+│   │   ├── ImmediatelyFast-Fabric-1.15.2+26.1.2.jar
+│   │   ├── Jade-mc26.1-Fabric-26.0.8.jar
+│   │   ├── MouseTweaks-fabric-mc26.1-2.31.jar
+│   │   ├── NoChatReports-FABRIC-26.1-v2.19.0.jar
+│   │   ├── Searchables-fabric-26.1.2-1.0.1.jar
+│   │   ├── almanac-1.26.x-fabric-1.6.2.jar
+│   │   ├── appleskin-fabric-mc26.1-3.0.9.jar
+│   │   ├── bettermounthud-1.3.0.jar
+│   │   ├── borderlessmining-1.2.3+26.1-fabric.jar
+│   │   ├── c2me-fabric-mc26.1.2-0.3.7+alpha.0.65.jar
+│   │   ├── cape-provider-5.3.0.jar
+│   │   ├── cloth-config-26.1.154.jar
+│   │   ├── continuity-3.0.1-beta.2+26.1.jar
+│   │   ├── controlify-3.0.0+26.1-fabric.jar
+│   │   ├── cupboard-fabric-26.1-3.7.jar
+│   │   ├── cwb-4.0.2+26.1.jar
+│   │   ├── debugify-26.1.2.2.jar
+│   │   ├── dynamic-fps-3.11.6+minecraft-26.1.0-fabric.jar
+│   │   ├── entity_model_features_26.1-fabric-3.0.17.jar
+│   │   ├── entity_texture_features_26.1-fabric-7.0.13.jar
+│   │   ├── entityculling-fabric-1.10.1-mc26.1.jar
+│   │   ├── fabric-api-0.145.4+26.1.2.jar
+│   │   ├── fabric-language-kotlin-1.13.10+kotlin.2.3.20.jar
+│   │   ├── fast-ip-ping-v1.0.11-mc26.1.2.jar
+│   │   ├── ferritecore-9.0.0-fabric.jar
+│   │   ├── gpumemleakfix-fabric-26.1-1.9.jar
+│   │   ├── iris-fabric-1.10.9+mc26.1.1.jar
+│   │   ├── isxander-main-menu-credits-1.3.0.jar
+│   │   ├── jei-26.1.2-fabric-29.5.0.26.jar
+│   │   ├── lambdynamiclights-4.10.1+26.1.1.jar
+│   │   ├── language-reload-1.7.6+26.1.jar
+│   │   ├── letmedespawn-1.26.x-fabric-1.6.2.jar
+│   │   ├── lithium-fabric-0.24.1+mc26.1.2.jar
+│   │   ├── modernfix-5.27.5-build.2.jar
+│   │   ├── modmenu-18.0.0-alpha.8.jar
+│   │   ├── morechathistory-2.0.0.jar
+│   │   ├── moreculling-fabric-26.1.1-1.7.0-beta.5.jar
+│   │   ├── noisium-fabric-2.8.4+mc26.1-pre-2.jar
+│   │   ├── optigui-2.3.0-beta.10+26.1.jar
+│   │   ├── puzzle-fabric-2.3.1+26.1.jar
+│   │   ├── reeses-sodium-options-fabric-2.0.5+mc26.1.1.jar
+│   │   ├── rrls-5.2.4+mc.26.1.jar
+│   │   ├── shulkerboxtooltip-fabric-5.2.18+26.1.jar
+│   │   ├── skyboxify-2.7+26.1-fabric.jar
+│   │   ├── sodium-extra-fabric-0.8.7+mc26.1.1.jar
+│   │   ├── sodium-fabric-0.8.9+mc26.1.1.jar
+│   │   ├── sodium-shadowy-path-blocks-fabric-7.0.0.jar
+│   │   ├── spark-1.10.172-fabric.jar
+│   │   ├── trashslot-fabric-26.1-26.1.0.2.jar
+│   │   ├── yet_another_config_lib_v3-3.9.2+26.1-fabric.jar
+│   │   └── zoomify-2.16.0+26.1.jar
+│   ├── resourcepacks
+│   │   ├── Chat Reporting Helper.zip
+│   │   ├── Mod Menu Helper.zip
+│   │   └── SodiumTranslations.zip
+│   ├── saves
+│   ├── screenshots
+│   ├── shaderpacks
+│   └── texturepacks
+├── NoteThing.txt
+├── Old Downloads. Before 2026
+│   ├── Modrinth Pack
+│   │   └── 2nd Attempt. 1.0.0.mrpack
+│   ├── Passwords
+│   │   ├── Brave Passwords.csv
+│   │   ├── Chrome Passwords.csv
+│   │   └── firefox-passwords.csv
+│   └── Word
+│       ├── English KAT 1 Othello Analysis Grammarly Version.docx
+│       ├── English KAT 1 Othello Analysis.docx
+│       ├── Invoice Oldham Medical Services Draft - Copy.docx
+│       ├── Invoice Oldham Medical Services Draft.docx
+│       ├── Junaid prescription - Copy.docx
+│       ├── Junaid prescription.docx
+│       ├── Rochdale Road Medical Centre Draft.docx
+│       └── UK Hassan 01_04_25.docx
+├── PrismMissingStuff
+│   ├── Better Replication Pipes.zip
+│   ├── Better SB Upgrades.zip
+│   ├── FTB Pack Chinese Translation Resource.zip
+│   ├── GeophilicBackported-v1.3.2 1.21.1.jar
+│   ├── Mandala's GUI - Dark Mode Compat 0.3.1.zip
+│   ├── Mandala's GUI - Dark Mode Compat Neo 0.3 Fix.zip
+│   ├── MandalasGUI+Dakmode_1.21.8_v2.5.zip
+│   ├── MandalasGUI_AddOn+DarkModded_V6.5.zip
+│   ├── Pretty X Smart Pipez Mekanism.zip
+│   ├── Stay Clear V1.1 [1.21.1].zip
+│   ├── Structory_26.1_v1.3.16.jar
+│   ├── Structory_Towers_26.1_v1.0.16 (1).jar
+│   ├── Structory_Towers_26.1_v1.0.16.jar
+│   ├── adorablehamsterpets-3.5.0-1.21.1+fabric.jar
+│   ├── bmcpalegardenpatcher-0.3.0.jar
+│   ├── data-4c35023d-f68f-492c-af07-110c4f033ed6-1775939340-9ae23f15-batch-0000.zip
+│   ├── moreoverlays-1.24.2-mc1.21.1-neoforge.jar
+│   ├── tombstone-neoforge-1.21.1-9.4.8.jar
+│   └── vb-compat-1.7-1.21.1.jar
+├── Prompts and Plans for GCSEWeb
+│   ├── CoreStructurePlan.txt
+│   ├── GCSE_Hub_Build_Prompt.md
+│   ├── GCSE_Hub_Master_Design_Plan.md
+│   ├── GeneralDesignPlan.txt
+│   └── gcse-hub-folderstructure.txt
+├── Random Downloads
+├── SKILL.md
+├── School PowerPoint
+│   └── 9-02-26 Art_Culture_Work.pptx
+├── Screenshots
+│   └── desktop.ini
+├── Youtube Downloads
+│   ├── Demon Slayer's Infinity Castle： Stunning 60FPS 4K Wallpaper Loop! [JceroF8Oy_g].mp4
+│   └── Live Wallpaper Japanese Autumn Leaves [2wIACHP04qQ].mp4
+└── eDofE Proof
+    └── Skill
+        ├── Input.jpg
+        ├── Typecasting.jpg
+        ├── if-elsestatements.jpg
+        └── stringindexing.jpg
