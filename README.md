@@ -1,48 +1,67 @@
 # Random QOL Scripts
 
-Collection of productivity utilities: image compression, disk mapping, file encryption, duplicate removal.
+Utility suite: image compression, disk mapping, file encryption, duplicate removal, clipboard operations.
 
 ## Tools
 
-| Tool                | Purpose                    | Usage                         |
-| ------------------- | -------------------------- | ----------------------------- |
-| `imageshrinker.exe` | Reduce image file size     | `.\shrink.bat <image_path>`   |
-| `compressor.exe`    | General file compression   | `.\autobuild.bat`             |
-| `encryptor.exe`     | Encrypt/decrypt files      | `.\crypt.bat <file>`          |
-| `dupedeleter.exe`   | Find and remove duplicates | `dupedeleter.exe <directory>` |
+| Binary              | Purpose                          | Launcher         |
+| ------------------- | -------------------------------- | ---------------- |
+| `imageshrinker.exe` | Reduce image file size (JPG/PNG) | `shrink.bat`     |
+| `compressor.exe`    | Archive/compress files           | Direct Execution |
+| `encryptor.exe`     | File encryption/decryption       | `crypt.bat`      |
+| `dupedeleter.exe`   | Find & remove duplicate files    | Direct execution |
 
-## Setup
+## Python Scripts
 
-### Python Scripts
+| Script          | Purpose                            |
+| --------------- | ---------------------------------- |
+| `dashboard.py`  | System resource monitoring         |
+| `disk_map.py`   | Disk usage visualization           |
+| `tree_maker.py` | Directory structure tree generator |
 
-```bash
-python python/dashboard.py      # System dashboard
-python python/disk_map.py       # Disk usage map
-python python/tree_maker.py     # Directory tree generator
+## Quick Start
+
+### Batch Commands
+
+```cmd
+autobuild.bat          # Build all C++ binaries
+shrink.bat <image>     # Compress image
+crypt.bat <file>       # Encrypt file
+mapit.bat              # Map disk usage
+copypaste.bat          # Robocopy
 ```
 
-### Batch Files
-
-- `autobuild.bat` – Compile C++ sources
-- `shrink.bat` – Compress images
-- `crypt.bat` – Encrypt files
-- `mapit.bat` – Map disk usage
-- `run_shrinker.bat` – Execute imageshrinker
-
-## Building from Source
+### Python
 
 ```bash
-autobuild.bat
+python python/dashboard.py
+python python/disk_map.py
+python python/tree_maker.py
 ```
-
-Requires: MSVC or MinGW C++ compiler.
 
 ## Requirements
 
-- Python 3.8+
-- C++ compiler (for building from source)
-- Windows OS
+- **OS:** Windows
+- **Python:** 3.8+
+- **Build:** MSVC/MinGW C++ compiler (for compilation)
 
-## License
+## Project Structure
 
-[Specify license if applicable]
+├── bin/ # Compiled executables
+├── src/ # C++ source files
+├── python/ # Python utilities
+└── \*.bat # Batch launchers
+
+## Building
+
+```cmd
+autobuild.bat
+```
+
+Compiles all C++ sources to `/bin/`.
+
+## Notes
+
+- Image compression uses STB image library (headers included)
+- All Python scripts are standalone
+- Batch files assume binaries are pre-built in `/bin/`
