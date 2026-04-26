@@ -16,7 +16,7 @@ if !errorlevel! equ 0 (
 
 :: 3. Loop through single-file .cpp files (skip compress.cpp and main.cpp)
 for %%f in (src\*.cpp) do (
-    if /i not "%%~nf"=="compress" if /i not "%%~nf"=="main" (
+    if /i not "%%~nf"=="compress" if /i not "%%~nf"=="main" if /i not "%%~nf"=="main_compressor" (
         echo ---------------------------------
         echo Compiling: %%~nf...
         g++ "%%f" -I src/include -o "bin\%%~nf.exe"
