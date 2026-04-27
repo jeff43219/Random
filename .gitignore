@@ -3,3 +3,5 @@ Folder_Structures/
 PS_TimeTable.ps1
 timetable.bat
 bin/
+Ignored PS1 Scripts/
+start_mirror.bat
