@@ -23,7 +23,8 @@ def generate_tree_logic(root_dir, indent=""):
         path = os.path.join(root_dir, item)
         is_last = (i == len(items) - 1)
         connector = "└── " if is_last else "├── "
-        tree_str += f"{indent}{connector}{item}\n"
+        display_name = f"{item}/" if os.path.isdir(path) else item
+        tree_str += f"{indent}{connector}{display_name}\n"
         if os.path.isdir(path):
             extension = "    " if is_last else "│   "
             tree_str += generate_tree_logic(path, indent + extension)
