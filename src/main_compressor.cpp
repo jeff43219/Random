@@ -7,6 +7,11 @@
 #include <thread>
 #include <atomic>
 #include <chrono>
+
+#ifdef _WIN32
+#include <windows.h>
+#endif
+
 static void print_usage(const char* exe) {
     std::cout << "Usage: " << exe << " <path> [options]\n"
               << "\n"
@@ -29,19 +34,47 @@ static std::string human_size(int64_t bytes) {
     ss << std::fixed << std::setprecision(2) << mb << " MB";
     return ss.str();
 }
-std::string g_current_output;
-int main(int argc, char* argv[]) {
-    if (argc < 2) { print_usage(argv[0]); return 1; }
 
-    std::string path = argv[1];
+std::string g_current_output;
+
+int main(int argc, char* argv[]) {
+    std::vector<std::string> args;
+
+#ifdef _WIN32
+    // Windows: Retrieve command line arguments in UTF-16 and convert to UTF-8
+    int wargc;
+    LPWSTR* wargv = CommandLineToArgvW(GetCommandLineW(), &wargc);
+    if (wargv) {
+        for (int i = 0; i < wargc; i++) {
+            int size_needed = WideCharToMultiByte(CP_UTF8, 0, wargv[i], -1, nullptr, 0, nullptr, nullptr);
+            std::string arg(size_needed, 0);
+            WideCharToMultiByte(CP_UTF8, 0, wargv[i], -1, &arg[0], size_needed, nullptr, nullptr);
+            arg.pop_back(); // Remove the null terminator added by WideCharToMultiByte
+            args.push_back(arg);
+        }
+        LocalFree(wargv);
+    } else {
+        std::cerr << "Failed to parse command line arguments.\n";
+        return 1;
+    }
+#else
+    // Linux/macOS: argv is already UTF-8
+    for (int i = 0; i < argc; i++) {
+        args.push_back(argv[i]);
+    }
+#endif
+
+    if (args.size() < 2) { print_usage(args[0].c_str()); return 1; }
+
+    std::string path = args[1];
     CompressOptions opts;
 
-    for (int i = 2; i < argc; i++) {
-        std::string arg = argv[i];
-        if (arg == "-cq" && i + 1 < argc)
-            opts.cq = std::stoi(argv[++i]);
-        else if (arg == "-preset" && i + 1 < argc)
-            opts.preset = argv[++i];
+    for (size_t i = 2; i < args.size(); i++) {
+        std::string arg = args[i];
+        if (arg == "-cq" && i + 1 < args.size())
+            opts.cq = std::stoi(args[++i]);
+        else if (arg == "-preset" && i + 1 < args.size())
+            opts.preset = args[++i];
         else if (arg == "-r")
             opts.recursive = true;
         else if (arg == "-overwrite")
@@ -107,7 +140,8 @@ int main(int argc, char* argv[]) {
               << "  Done:   " << success << "\n"
               << "  Failed: " << failed  << "\n"
               << "  Saved:  " << human_size(total_saved) << "\n";
-std::cout << "\nPress Enter to close...";
-std::cin.get();
+    std::cout << "\nPress Enter to close...";
+    std::cin.get();
+    
     return failed > 0 ? 1 : 0;
 }

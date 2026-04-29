@@ -14,16 +14,27 @@ if !errorlevel! equ 0 (
     echo [ERROR] Failed to compile video-compressor
 )
 
-:: 3. Loop through single-file .cpp files (skip compress.cpp and main.cpp)
+:: 3. Loop through single-file .cpp files
 for %%f in (src\*.cpp) do (
-    if /i not "%%~nf"=="compress" if /i not "%%~nf"=="main" if /i not "%%~nf"=="main_compressor" (
-        echo ---------------------------------
-        echo Compiling: %%~nf...
-        g++ "%%f" -I src/include -o "bin\%%~nf.exe"
-        if !errorlevel! equ 0 (
-            echo [SUCCESS] Created bin\%%~nf.exe
-        ) else (
-            echo [ERROR] Failed to compile %%~nf
+    if /i not "%%~nf"=="compress" (
+        if /i not "%%~nf"=="main" (
+            if /i not "%%~nf"=="main_compressor" (
+                echo ---------------------------------
+                echo Compiling: %%~nf...
+
+                :: --- Custom flags per file ---
+                if /i "%%~nf"=="alwaysontop" (
+                    g++ "%%f" -mwindows -static -lgdi32 -o "bin\%%~nf.exe"
+                ) else (
+                    g++ "%%f" -I src/include -o "bin\%%~nf.exe"
+                )
+
+                if !errorlevel! equ 0 (
+                    echo [SUCCESS] Created bin\%%~nf.exe
+                ) else (
+                    echo [ERROR] Failed to compile %%~nf
+                )
+            )
         )
     )
 )

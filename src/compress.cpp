@@ -11,12 +11,53 @@
 #include <condition_variable>
 #include <queue>
 
+#ifdef _WIN32
+#include <windows.h>
+#endif
+
 namespace fs = std::filesystem;
 
 // ─── Helpers ────────────────────────────────────────────────────────────────
 
+static fs::path make_long_path(const std::string& utf8_path) {
+#ifdef _WIN32
+    if (utf8_path.empty()) return fs::path();
+    int wlen = MultiByteToWideChar(CP_UTF8, 0, utf8_path.c_str(), -1, nullptr, 0);
+    std::wstring wpath(wlen, 0);
+    MultiByteToWideChar(CP_UTF8, 0, utf8_path.c_str(), -1, &wpath[0], wlen);
+    wpath.pop_back();
+
+    fs::path p = fs::absolute(fs::path(wpath));
+    std::wstring abs_str = p.wstring();
+
+    if (abs_str.compare(0, 4, L"\\\\?\\") != 0 && abs_str.length() >= 2 && abs_str[1] == L':') {
+        abs_str = L"\\\\?\\" + abs_str;
+    }
+    for (auto& c : abs_str) {
+        if (c == L'/') c = L'\\';
+    }
+    return fs::path(abs_str);
+#else
+    return fs::path(utf8_path);
+#endif
+}
+
+static std::string path_to_utf8(const fs::path& p) {
+#ifdef _WIN32
+    std::wstring wstr = p.wstring();
+    if (wstr.empty()) return "";
+    int sz = WideCharToMultiByte(CP_UTF8, 0, wstr.c_str(), -1, nullptr, 0, nullptr, nullptr);
+    std::string res(sz, 0);
+    WideCharToMultiByte(CP_UTF8, 0, wstr.c_str(), -1, &res[0], sz, nullptr, nullptr);
+    res.pop_back();
+    return res;
+#else
+    return p.string();
+#endif
+}
+
 bool is_supported(const std::string& path) {
-    std::string ext = fs::path(path).extension().string();
+    std::string ext = path_to_utf8(make_long_path(path).extension());
     for (auto& c : ext) c = tolower(c);
     for (const auto& e : SUPPORTED_EXTENSIONS)
         if (e == ext) return true;
@@ -25,16 +66,17 @@ bool is_supported(const std::string& path) {
 
 std::vector<std::string> collect_files(const std::string& path, bool recursive) {
     std::vector<std::string> files;
-    if (fs::is_regular_file(path)) {
+    fs::path fspath = fs::u8path(path);
+    if (fs::is_regular_file(fspath)) {
         if (is_supported(path)) files.push_back(path);
         return files;
     }
     if (recursive) {
-        for (const auto& e : fs::recursive_directory_iterator(path))
+        for (const auto& e : fs::recursive_directory_iterator(fspath))
             if (e.is_regular_file() && is_supported(e.path().string()))
                 files.push_back(e.path().string());
     } else {
-        for (const auto& e : fs::directory_iterator(path))
+        for (const auto& e : fs::directory_iterator(fspath))
             if (e.is_regular_file() && is_supported(e.path().string()))
                 files.push_back(e.path().string());
     }
@@ -63,11 +105,17 @@ CompressResult compress_file(const std::string& input_path, const CompressOption
 
     auto t_start = std::chrono::steady_clock::now();
 
-    fs::path in_path(input_path);
-    fs::path out_path = in_path.parent_path() /
-        (in_path.stem().string() + "_compressed" + in_path.extension().string());
-    std::string out_str = out_path.string();
-g_current_output = out_str;
+    fs::path in_path = make_long_path(input_path);
+    fs::path out_path = in_path;
+    
+#ifdef _WIN32
+    out_path.replace_filename(in_path.stem().wstring() + L"_compressed" + in_path.extension().wstring());
+#else
+    out_path.replace_filename(in_path.stem().string() + "_compressed" + in_path.extension().string());
+#endif
+
+    std::string out_str = path_to_utf8(out_path);
+    g_current_output = out_str;
     result.original_size = (int64_t)fs::file_size(in_path);
 
     // ── Open input ──
@@ -276,7 +324,6 @@ g_current_output = out_str;
                         }
                     }
                 } else if (stream_map[pkt->stream_index] >= 0) {
-                    // Audio/subtitle — push to output queue (written by main thread)
                     AVPacket* copy  = av_packet_clone(pkt);
                     AVStream* in_s  = in_fmt_ctx->streams[copy->stream_index];
                     AVStream* out_s = out_fmt_ctx->streams[stream_map[copy->stream_index]];
@@ -291,7 +338,6 @@ g_current_output = out_str;
                 av_packet_unref(pkt);
             }
 
-            // Flush decoder
             avcodec_send_packet(dec_ctx, nullptr);
             while (avcodec_receive_frame(dec_ctx, frame) == 0) {
                 AVFrame* src = frame;
@@ -351,7 +397,6 @@ g_current_output = out_str;
                 av_frame_free(&conv);
             }
 
-            // Flush encoder
             avcodec_send_frame(enc_ctx, nullptr);
             while (avcodec_receive_packet(enc_ctx, out_pkt) == 0) {
                 AVPacket* copy = av_packet_clone(out_pkt);
