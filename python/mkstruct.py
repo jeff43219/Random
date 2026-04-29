@@ -159,7 +159,15 @@ def prompt(label: str, default: str = '') -> str:
 
 def resolve_output_dir(raw: str) -> Path:
     p = Path(raw).resolve() if raw else Path.cwd()
-    p.mkdir(parents=True, exist_ok=True)
+    try:
+        p.mkdir(parents=True, exist_ok=True)
+    except PermissionError as e:
+        print(f"ERROR: Cannot create/write to output directory: {p}", file=sys.stderr)
+        if sys.platform.startswith("win"):
+            suggested = Path.home() / "Desktop"
+            print(f"Tip: On Windows your Desktop is usually: {suggested}", file=sys.stderr)
+            print("Tip: Press Enter at the prompt to use the current directory.", file=sys.stderr)
+        raise SystemExit(1) from e
     return p
 
 
